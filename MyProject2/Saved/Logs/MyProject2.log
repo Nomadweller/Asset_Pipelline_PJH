@@ -1,0 +1,1760 @@
+﻿Log file open, 08/26/18 13:16:20
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.283270
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.399s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: AMD A10-8700P Radeon R6, 10 Compute Cores 4C+6G, GPU: AMD Radeon(TM) R6 Graphics
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.26-19.16.20:964][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.26-19.16.20:964][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.26-19.16.21:019][  0]LogHAL: Display: Platform has ~ 8 GB [7999053824 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.08.26-19.16.21:019][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.08.26-19.16.21:019][  0]LogInit: Going up to parent DeviceProfile []
+[2018.08.26-19.16.21:020][  0]LogInit: Computer: DESKTOP-K009S2H
+[2018.08.26-19.16.21:020][  0]LogInit: User: Peter
+[2018.08.26-19.16.21:020][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.08.26-19.16.21:020][  0]LogInit: High frequency timer resolution =1.754519 MHz
+[2018.08.26-19.16.21:021][  0]LogMemory: Memory total: Physical=7.4GB (8GB approx)
+[2018.08.26-19.16.21:021][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.26-19.16.21:021][  0]LogMemory: Process Physical Memory: 99.71 MB used, 99.71 MB peak
+[2018.08.26-19.16.21:021][  0]LogMemory: Process Virtual Memory: 90.75 MB used, 90.75 MB peak
+[2018.08.26-19.16.21:021][  0]LogMemory: Physical Memory: 4860.99 MB used,  2767.50 MB free, 7628.49 MB total
+[2018.08.26-19.16.21:021][  0]LogMemory: Virtual Memory: 492.09 MB used,  2767.50 MB free, 134217728.00 MB total
+[2018.08.26-19.16.21:059][  0]LogInit: Using OS detected language (en-US).
+[2018.08.26-19.16.21:059][  0]LogInit: Using OS detected locale (en-US).
+[2018.08.26-19.16.21:061][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.08.26-19.16.21:764][  0]LogStreaming: Display: Took  0.706s to InitEngineTextLocalization.
+[2018.08.26-19.16.21:765][  0]LogInit: Setting process to per monitor DPI aware
+[2018.08.26-19.16.21:834][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.08.26-19.16.21:834][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.08.26-19.16.22:328][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.26-19.16.22:328][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.26-19.16.22:360][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) R6 Graphics' (Feature Level 11_0)
+[2018.08.26-19.16.22:360][  0]LogD3D11RHI:       488/0/3814 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.08.26-19.16.22:364][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.26-19.16.22:364][  0]LogD3D11RHI:       0/0/3814 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.26-19.16.22:364][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.26-19.16.22:376][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.26-19.16.22:376][  0]LogD3D11RHI:     GPU DeviceId: 0x9874 (for the marketing name, search the web for "GPU Device Id")
+[2018.08.26-19.16.22:377][  0]LogWindows: EnumDisplayDevices:
+[2018.08.26-19.16.22:377][  0]LogWindows:    0. 'AMD Radeon(TM) R6 Graphics' (P:1 D:1)
+[2018.08.26-19.16.22:377][  0]LogWindows:    1. 'AMD Radeon(TM) R6 Graphics' (P:0 D:0)
+[2018.08.26-19.16.22:378][  0]LogWindows:    2. 'AMD Radeon(TM) R6 Graphics' (P:0 D:0)
+[2018.08.26-19.16.22:379][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2018.08.26-19.16.22:379][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) R6 Graphics
+[2018.08.26-19.16.22:379][  0]LogD3D11RHI:   Driver Version: 15.201.1101.0 (internal:15.201.1101.0, unified:15.201.1101.0)
+[2018.08.26-19.16.22:379][  0]LogD3D11RHI:      Driver Date: 8-6-2015
+[2018.08.26-19.16.22:379][  0]LogRHI: Texture pool is 341 MB (70% of 488 MB)
+[2018.08.26-19.16.22:445][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.26-19.16.22:474][  0]LogD3D11RHI: GPU Timing Frequency: 100.000000 (Debug: 2 1)
+[2018.08.26-19.16.22:479][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/Peter/Documents/Unreal Projects/MyProject2/Intermediate/Shaders/WorkingDirectory/13292/).
+[2018.08.26-19.16.22:480][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Peter/AppData/Local/Temp/UnrealShaderWorkingDir/3738B99C4E314DFF722188A0B4FA5A77/'.
+[2018.08.26-19.16.23:406][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.26-19.16.23:439][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.26-19.16.23:471][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.26-19.16.23:502][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.26-19.16.23:535][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.26-19.16.23:566][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.26-19.16.23:596][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.26-19.16.23:628][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.26-19.16.23:643][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.26-19.16.23:830][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-19.16.23:830][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-19.16.23:830][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-19.16.23:830][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-19.16.23:830][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-19.16.23:830][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-19.16.23:830][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-19.16.23:830][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-19.16.23:830][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-19.16.23:830][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-19.16.23:830][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-19.16.23:830][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-19.16.23:830][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-19.16.23:830][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-19.16.23:830][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-19.16.23:830][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-19.16.23:831][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-19.16.23:831][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-19.16.23:834][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.26-19.16.23:949][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.26-19.16.23:949][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.26-19.16.24:004][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.26-19.16.24:004][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.26-19.16.24:038][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.26-19.16.24:072][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.26-19.16.24:107][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.26-19.16.24:144][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.26-19.16.24:170][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.08.26-19.16.24:170][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.26-19.16.24:328][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.08.26-19.16.24:328][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.08.26-19.16.24:329][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.26-19.16.26:823][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.26-19.16.27:361][  0]LogDerivedDataCache: Loaded boot cache 0.54s 87MB C:/Users/Peter/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.08.26-19.16.27:361][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Peter/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.08.26-19.16.27:361][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Peter/Documents/Unreal Projects/MyProject2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.26-19.16.27:362][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.26-19.16.27:362][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Peter/Documents/Unreal Projects/MyProject2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.26-19.16.27:362][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.26-19.16.27:393][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.26-19.16.27:407][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Peter/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.26-19.16.27:407][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.08.26-19.16.27:407][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.08.26-19.16.27:452][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.26-19.16.27:455][  0]LogSlate: Using FreeType 2.6.0
+[2018.08.26-19.16.27:493][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.26-19.16.31:195][  0]LogAssetRegistry: FAssetRegistry took 0.0347 seconds to start up
+[2018.08.26-19.16.32:143][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.26-19.16.32:536][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.26-19.16.32:546][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.26-19.16.32:546][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.08.26-19.16.32:546][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.26-19.16.32:546][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.26-19.16.32:588][  0]LogNetVersion: MyProject2 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1482868377)
+[2018.08.26-19.16.33:904][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.264475 seconds
+[2018.08.26-19.16.33:920][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.08.26-19.16.33:920][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.08.26-19.16.33:920][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.26-19.17.07:028][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.26-19.17.07:090][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.26-19.17.07:667][  0]SourceControl: Source control is disabled
+[2018.08.26-19.17.07:668][  0]SourceControl: Source control is disabled
+[2018.08.26-19.17.07:672][  0]SourceControl: Source control is disabled
+[2018.08.26-19.17.07:675][  0]SourceControl: Source control is disabled
+[2018.08.26-19.17.08:212][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.26-19.17.08:329][  0]LogOcInput: OculusInput pre-init called
+[2018.08.26-19.17.08:546][  0]LogEngine: Initializing Engine...
+[2018.08.26-19.17.08:548][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.26-19.17.08:551][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.08.26-19.17.08:551][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.26-19.17.08:552][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.08.26-19.17.08:552][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.26-19.17.09:160][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.08.26-19.17.09:204][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.26-19.17.09:220][  0]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.26-19.17.09:274][  0]LogInit: FAudioDevice initialized.
+[2018.08.26-19.17.09:274][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.08.26-19.17.09:874][  0]LogDerivedDataCache: Saved boot cache 0.60s 71MB C:/Users/Peter/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.08.26-19.17.09:885][  0]LogInit: Texture streaming: Enabled
+[2018.08.26-19.17.09:969][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.26-19.17.10:012][  0]LogInit: Transaction tracking system initialized
+[2018.08.26-19.17.10:075][  0]BlueprintLog: New page: Editor Load
+[2018.08.26-19.17.10:694][  0]LocalizationService: Localization service is disabled
+[2018.08.26-19.17.11:637][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Peter/Documents/Unreal Projects/MyProject2/Content/' took 0.01s
+[2018.08.26-19.17.11:637][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.26-19.17.11:637][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.26-19.17.11:643][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.26-19.17.11:643][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.08.26-19.17.11:643][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.26-19.17.11:643][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.08.26-19.17.11:643][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.26-19.17.12:759][  0]SourceControl: Source control is disabled
+[2018.08.26-19.17.12:759][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.26-19.17.12:760][  0]LightingResults: New page: Lighting Build
+[2018.08.26-19.17.12:768][  0]MapCheck: New page: Map Check
+[2018.08.26-19.17.12:768][  0]LightingResults: New page: Lighting Build
+[2018.08.26-19.17.13:419][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.08.26-19.17.13:440][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.26-19.17.13:534][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.26-19.17.13:760][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 225.823ms to complete.
+[2018.08.26-19.17.13:761][  0]LogFileHelpers: Loading map 'Template_Default' took 1.002
+[2018.08.26-19.17.13:854][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.26-19.17.16:051][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.26-19.17.16:186][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.26-19.17.16:202][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.26-19.17.16:218][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.26-19.17.16:360][  0]LogCollectionManager: Loaded 0 collections in 0.003876 seconds
+[2018.08.26-19.17.17:021][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Peter/Documents/Unreal Projects/MyProject2/Saved/Collections/' took 0.01s
+[2018.08.26-19.17.17:022][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Peter/Documents/Unreal Projects/MyProject2/Content/Developers/Peter/Collections/' took 0.01s
+[2018.08.26-19.17.17:022][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Peter/Documents/Unreal Projects/MyProject2/Content/Collections/' took 0.01s
+[2018.08.26-19.17.17:022][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.08.26-19.17.17:126][  0]LogContentBrowser: Native class hierarchy populated in 0.0847 seconds. Added 2572 classes and 603 folders.
+[2018.08.26-19.17.17:454][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.08.26-19.17.21:240][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2018.08.26-19.17.21:478][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.08.26-19.17.23:218][  0]LogSlate: Took 0.037470 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.26-19.17.23:279][  0]LogSlate: Took 0.045178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.26-19.17.23:402][  0]LogSlate: Took 0.034024 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.26-19.17.24:706][  0]LogRenderer: Reallocating scene render targets to support 1004x456 Format 10 NumSamples 1 (Frame:1).
+[2018.08.26-19.17.26:725][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.17.26:942][  0]LogSlate: Window 'Tutorials' being destroyed
+[2018.08.26-19.17.27:012][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.08.26-19.17.27:012][  0]LogLoad: (Engine Initialization) Total time: 70.32 seconds
+[2018.08.26-19.17.27:012][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.26-19.17.27:262][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.08.26-19.17.31:958][155]LogAssetRegistry: Asset discovery search completed in 60.7864 seconds
+[2018.08.26-19.17.31:966][155]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2018.08.26-19.17.31:966][155]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000398 seconds (updated 0 objects)
+[2018.08.26-19.17.37:867][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.18.45:825][ 85]LogSlate: Window 'New Level' being destroyed
+[2018.08.26-19.18.45:894][ 85]LightingResults: New page: Lighting Build
+[2018.08.26-19.18.45:911][ 85]MapCheck: New page: Map Check
+[2018.08.26-19.18.45:911][ 85]LightingResults: New page: Lighting Build
+[2018.08.26-19.18.46:032][ 85]LogAIModule: Creating AISystem for world Untitled
+[2018.08.26-19.18.46:098][ 85]LoadErrors: New page: New Map
+[2018.08.26-19.18.46:248][ 85]LogEditorViewport: Clicking Background
+[2018.08.26-19.18.48:863][217]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.19.08:741][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.19.10:477][675]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.08.26-19.19.19:044][749]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.19.37:597][818]LogSlate: Took 0.000483 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.26-19.19.37:600][818]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.20.25:572][838]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.08.26-19.20.26:531][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.21.24:657][176]LogEditorViewport: Clicking Background
+[2018.08.26-19.21.32:582][631]Cmd: EDCALLBACK SURFPROPS
+[2018.08.26-19.21.38:892][879]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.22.00:513][147]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.22.04:068][355]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush2)
+[2018.08.26-19.22.04:319][366]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush2)
+[2018.08.26-19.22.09:618][678]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2018.08.26-19.22.14:521][965]LogEditorViewport: Clicking Background
+[2018.08.26-19.22.17:782][160]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush2)
+[2018.08.26-19.22.22:391][433]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.22.24:977][583]LogEditorViewport: Clicking Background
+[2018.08.26-19.22.27:336][718]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2018.08.26-19.22.29:929][869]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush2)
+[2018.08.26-19.23.02:153][192]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.23.05:299][357]LogEditorViewport: Clicking Background
+[2018.08.26-19.23.09:092][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.23.53:995][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.23.56:251][132]LogEditorViewport: Clicking Background
+[2018.08.26-19.23.56:941][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.24.04:644][632]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.24.04:813][641]Cmd: MODE GRID=0
+[2018.08.26-19.24.07:929][824]Cmd: MODE GRID=1
+[2018.08.26-19.24.16:736][344]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.24.19:934][534]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.24.21:615][633]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.24.23:159][720]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.24.25:560][862]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.24.27:785][992]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.24.31:871][211]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.25.58:853][839]LogSlate: Took 0.025271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.26-19.26.41:548][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.26.51:061][570]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_N (BC5, 512X512)
+[2018.08.26-19.26.51:061][570]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_D (AutoDXT, 512X512)
+[2018.08.26-19.26.51:061][570]LogTexture: Display: Building textures: T_UE4_Mannequin_Mobile_O (AutoDXT, 512X512)
+[2018.08.26-19.26.51:061][570]LogTexture: Display: Building textures: T_UE4_Mannequin_Mobile_M (AutoDXT, 1024X1024)
+[2018.08.26-19.26.51:061][570]LogTexture: Display: Building textures: T_UE4_Mannequin_Mobile_N (BC5, 1024X1024)
+[2018.08.26-19.26.51:061][570]LogTexture: Display: Building textures: T_ML_Aluminum01 (AutoDXT, 512X512)
+[2018.08.26-19.26.51:597][570]LogTexture: Display: Building textures: T_ML_Aluminum01_N (BC5, 512X512)
+[2018.08.26-19.26.51:597][570]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.08.26-19.26.52:071][570]LogShaderCompilers: Display: Shaders left to compile 128
+[2018.08.26-19.26.52:071][570]LogShaderCompilers: Display: Shaders left to compile 118
+[2018.08.26-19.26.52:071][570]LogShaderCompilers: Display: Shaders left to compile 108
+[2018.08.26-19.26.52:071][570]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.08.26-19.26.52:270][570]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin_Mobile...
+[2018.08.26-19.26.52:351][570]LogSkeletalMesh: Built Skeletal Mesh [0.09s] /Game/UE4_Mannequin_Mobile/Mesh/SK_Mannequin_Mobile.SK_Mannequin_Mobile
+[2018.08.26-19.26.54:240][570]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/UE4_Mannequin_Mobile/Mesh/SK_Mannequin_Mobile.SK_Mannequin_Mobile
+[2018.08.26-19.26.54:643][570]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.08.26-19.26.57:066][570]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.26-19.26.57:169][570]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0008 seconds. Added 1 classes and 0 folders.
+[2018.08.26-19.26.58:855][570]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.08.26-19.27.09:031][570]LogShaderCompilers: Display: Shaders left to compile 226
+[2018.08.26-19.27.09:031][570]LogShaderCompilers: Display: Shaders left to compile 216
+[2018.08.26-19.27.09:031][570]LogShaderCompilers: Display: Shaders left to compile 206
+[2018.08.26-19.27.10:480][570]LogSlate: Took 0.024500 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.26-19.27.10:617][570]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0006 seconds. Added 1 classes and 0 folders.
+[2018.08.26-19.27.13:244][625]LogSlate: Window 'SK_Mannequin_Mobile' being destroyed
+[2018.08.26-19.27.13:251][625]LogSlate: Window 'SK_Mannequin_Mobile' being destroyed
+[2018.08.26-19.27.13:409][625]LogShaderCompilers: Display: Shaders left to compile 196
+[2018.08.26-19.27.16:649][690]LogShaderCompilers: Display: Shaders left to compile 186
+[2018.08.26-19.27.22:304][916]LogShaderCompilers: Display: Shaders left to compile 176
+[2018.08.26-19.27.27:822][186]LogShaderCompilers: Display: Shaders left to compile 166
+[2018.08.26-19.27.33:727][475]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.27.44:366][981]LogShaderCompilers: Display: Shaders left to compile 156
+[2018.08.26-19.27.46:228][ 67]LogShaderCompilers: Display: Shaders left to compile 146
+[2018.08.26-19.27.48:040][129]LogShaderCompilers: Display: Shaders left to compile 136
+[2018.08.26-19.27.49:783][201]LogEditorViewport: Clicking Background
+[2018.08.26-19.27.56:945][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.28.00:181][798]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin_Mobile)
+[2018.08.26-19.28.00:649][813]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin_Mobile)
+[2018.08.26-19.28.00:887][824]LogShaderCompilers: Display: Shaders left to compile 126
+[2018.08.26-19.28.04:773][995]LogEditorViewport: Clicking Background
+[2018.08.26-19.28.06:522][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.28.06:602][101]Cmd: MODE GRID=0
+[2018.08.26-19.28.09:771][284]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin_Mobile)
+[2018.08.26-19.28.12:696][410]LogShaderCompilers: Display: Shaders left to compile 116
+[2018.08.26-19.28.14:007][463]LogEditorViewport: Clicking Background
+[2018.08.26-19.28.15:685][562]LogShaderCompilers: Display: Shaders left to compile 106
+[2018.08.26-19.28.17:044][630]LogShaderCompilers: Display: Shaders left to compile 96
+[2018.08.26-19.28.18:836][729]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin_Mobile)
+[2018.08.26-19.28.22:809][909]LogEditorViewport: Clicking Background
+[2018.08.26-19.28.24:164][988]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin_Mobile)
+[2018.08.26-19.28.27:042][112]LogEditorViewport: Clicking Background
+[2018.08.26-19.28.29:316][243]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.28.30:194][292]LogShaderCompilers: Display: Shaders left to compile 86
+[2018.08.26-19.28.33:653][468]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.08.26-19.28.43:608][644]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.08.26-19.28.46:746][676]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.08.26-19.28.47:621][696]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.08.26-19.28.53:366][860]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.29.01:180][235]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.29.03:558][326]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.08.26-19.29.10:205][543]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.08.26-19.29.17:448][754]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.26-19.29.17:913][770]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.26-19.29.30:107][197]LogEditorViewport: Clicking Background
+[2018.08.26-19.29.33:383][369]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.29.46:682][119]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.29.51:919][369]LogEditorViewport: Clicking Background
+[2018.08.26-19.29.51:999][370]LogEditorViewport: Clicking Background
+[2018.08.26-19.29.53:334][449]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.29.56:870][657]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.30.15:174][906]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.08.26-19.30.15:325][906]LogEditorViewport: Clicking on Component (LMB): DirectionalLightComponent (LightComponent0)
+[2018.08.26-19.30.15:789][926]LogEditorViewport: Clicking on Component (LMB): DirectionalLightComponent (LightComponent0)
+[2018.08.26-19.30.16:572][968]LogEditorViewport: Clicking on Component (LMB): DirectionalLightComponent (LightComponent0)
+[2018.08.26-19.30.16:660][969]LogEditorViewport: Clicking on Actor (double click): DirectionalLight (DirectionalLight)
+[2018.08.26-19.30.16:893][977]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.08.26-19.30.17:431][  3]LogEditorViewport: Clicking on Actor (context menu): DirectionalLight (DirectionalLight)
+[2018.08.26-19.30.17:689][  3]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.30.19:044][ 74]LogEditorViewport: Clicking Background
+[2018.08.26-19.30.21:630][211]LogEditorViewport: Clicking on Actor (double click): DirectionalLight (DirectionalLight)
+[2018.08.26-19.30.21:948][223]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.08.26-19.30.26:291][414]LogEditorViewport: Clicking Background
+[2018.08.26-19.30.28:393][529]LogEditorViewport: Clicking on Actor (CTRL LMB): DirectionalLight (DirectionalLight)
+[2018.08.26-19.30.28:529][530]LogEditorViewport: Clicking on Component (CTRL LMB): DirectionalLightComponent (LightComponent0)
+[2018.08.26-19.30.29:652][589]LogEditorViewport: Clicking on Component (LMB): DirectionalLightComponent (LightComponent0)
+[2018.08.26-19.30.29:740][590]LogEditorViewport: Clicking on Actor (double click): DirectionalLight (DirectionalLight)
+[2018.08.26-19.30.31:046][657]LogEditorViewport: Clicking on Component (SHIFT LMB): DirectionalLightComponent (LightComponent0)
+[2018.08.26-19.30.31:969][704]LogEditorViewport: Clicking Background
+[2018.08.26-19.30.33:444][786]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.08.26-19.30.34:372][832]LogEditorViewport: Clicking Background
+[2018.08.26-19.30.36:148][934]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.08.26-19.30.39:989][152]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.30.52:437][778]LogEditorViewport: Clicking Background
+[2018.08.26-19.30.58:417][897]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.30.58:940][909]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.31.00:240][986]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.31.03:003][150]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.31.20:748][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.31.22:553][165]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.31.24:270][264]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.31.27:803][471]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.31.30:502][627]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.31.36:748][988]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.31.40:091][177]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.08.26-19.31.41:324][244]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.08.26-19.31.51:912][665]LogEditorViewport: Clicking Background
+[2018.08.26-19.31.59:076][  9]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.08.26-19.31.59:580][ 31]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.08.26-19.32.37:720][646]LogSavePackage: Moving '../../../../../../Users/Peter/Documents/Unreal Projects/MyProject2/Saved/Untitled_2_Auto1B86DC9C74BAA757B8E39259248106DA4.tmp' to '../../../../../../Users/Peter/Documents/Unreal Projects/MyProject2/Saved/Autosaves/Temp/Untitled_2_Auto1.umap'
+[2018.08.26-19.32.37:815][646]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_2' took 0.546
+[2018.08.26-19.32.37:815][646]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.546
+[2018.08.26-19.32.51:160][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.32.57:235][142]LogSlate: Window 'Color Picker' being destroyed
+[2018.08.26-19.33.00:974][325]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.33.12:539][ 10]LogSlate: Window 'Color Picker' being destroyed
+[2018.08.26-19.33.13:614][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.33.35:535][605]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.34.19:171][954]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.34.28:895][446]MapCheck: New page: Map Check
+[2018.08.26-19.34.29:089][446]Cmd: MAP REBUILD ALLVISIBLE
+[2018.08.26-19.34.29:109][446]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.08.26-19.34.29:356][446]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.08.26-19.34.29:379][446]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.26-19.34.29:379][446]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2018.08.26-19.34.30:940][446]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.26-19.34.30:940][446]TextureStreamingBuild: Display: Compiling optional shaders took 1.616 seconds.
+[2018.08.26-19.34.31:028][446]LogLevel: Display: Export Material TexCoord Scales took 0.088 seconds.
+[2018.08.26-19.34.31:044][446]TextureStreamingBuild: Display: Build Texture Streaming took 0.015 seconds.
+[2018.08.26-19.34.31:194][446]LightingResults: New page: Lighting Build - Aug 26, 2018, 7:34:31 AM
+[2018.08.26-19.34.31:979][446]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.08.26-19.34.32:722][446]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.08.26-19.34.33:055][446]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.08.26-19.34.36:085][446]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2018.08.26-19.34.36:394][446]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:8008
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   at NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags) in D:\Build\++UE4\Sync\Saved\CsTools\Engine\Source\Editor\SwarmInterface\DotNET\SwarmInterface.cs:line 2811
+[2018.08.26-19.34.41:924][446]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.08.26-19.34.41:924][446]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13292
+[2018.08.26-19.34.45:378][446]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.08.26-19.34.45:384][446]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.08.26-19.34.45:384][446]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.08.26-19.34.45:384][446]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.08.26-19.34.45:384][446]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.08.26-19.34.45:384][446]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.08.26-19.34.46:180][446]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.08.26-19.34.46:181][446]MapCheck: New page: Untitled_2 - Aug 26, 2018, 7:34:46 AM
+[2018.08.26-19.34.46:427][446]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 246.224ms to complete.
+[2018.08.26-19.34.46:466][446]LogEditorBuildUtils: Build time 0:17
+[2018.08.26-19.34.46:507][446]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2018.08.26-19.34.46:525][446]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.26-19.34.46:525][446]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2018.08.26-19.34.46:561][446]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.26-19.34.53:253][525]LogSlate: Window 'Color Picker' being destroyed
+[2018.08.26-19.34.53:819][549]Job is a success!
+[2018.08.26-19.34.53:893][550]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.34.53:990][550]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.068s
+[2018.08.26-19.34.53:990][550]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.08.26-19.34.53:990][550]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2018.08.26-19.34.53:990][550]LogVolumetricLightmapImport:      Bricks at Level
+[2018.08.26-19.34.53:990][550]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2018.08.26-19.34.53:990][550]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2018.08.26-19.34.53:990][550]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2018.08.26-19.34.54:094][550]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 128X128)
+[2018.08.26-19.34.54:095][550]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 128X128)
+[2018.08.26-19.34.54:095][550]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 128X32)
+[2018.08.26-19.34.54:349][550]Lightmass on DESKTOP-K009S2H: 2.04 sec total, 401 ms importing, 99 ms setup, 198 ms photons, 1.08 sec processing, 0 ms extra exporting [11/11 mappings]. Threads: 4.30 sec total, 66 ms processing.
+[2018.08.26-19.34.54:490][550]LogStaticLightingSystem: Illumination: 23.3 sec (12 ms encoding lightmaps, 32 ms encoding shadowmaps)
+[2018.08.26-19.34.54:490][550]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.08.26-19.34.54:490][550]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2018.08.26-19.34.55:362][550]DumpUnbuiltLightIteractions
+[2018.08.26-19.34.55:362][550]Lights with unbuilt interactions: 0
+[2018.08.26-19.34.55:362][550]
+[2018.08.26-19.34.55:362][550]Primitives with unbuilt interactions: 0
+[2018.08.26-19.34.55:380][550]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.34.55:416][551]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.08.26-19.34.55:416][551]MapCheck: New page: Untitled_2 - Aug 26, 2018, 7:34:55 AM
+[2018.08.26-19.34.55:621][551]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 205.034ms to complete.
+[2018.08.26-19.35.33:442][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.35.51:933][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.36.01:588][303]LogEditorViewport: Clicking Background
+[2018.08.26-19.36.07:002][575]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)
+[2018.08.26-19.36.08:741][670]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog2)
+[2018.08.26-19.36.11:161][807]Cmd: DELETE
+[2018.08.26-19.36.11:161][807]Cmd: ACTOR DELETE
+[2018.08.26-19.36.11:212][807]LogEditorActor: Deleted Actor: AtmosphericFog
+[2018.08.26-19.36.11:301][807]LogEditorActor: Deleted 1 Actors (0.125 secs)
+[2018.08.26-19.36.12:804][890]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)
+[2018.08.26-19.36.59:857][331]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.08.26-19.37.12:261][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.38.25:282][901]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.39.06:812][642]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)
+[2018.08.26-19.39.12:331][840]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.08.26-19.39.17:342][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.39.34:562][763]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)
+[2018.08.26-19.39.38:394][983]LogEditorViewport: Clicking Background
+[2018.08.26-19.39.39:643][ 53]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.08.26-19.39.53:023][844]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.40.43:839][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.41.08:406][431]LogActorFactory: Actor Factory created Cube
+[2018.08.26-19.41.11:661][526]LogActorFactory: Actor Factory created Cube
+[2018.08.26-19.41.14:104][638]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.41.57:320][522]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.42.03:010][826]LogEditorViewport: Clicking Background
+[2018.08.26-19.42.10:051][180]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.43.11:400][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.43.22:151][757]LogEditorViewport: Clicking Background
+[2018.08.26-19.43.26:374][999]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.43.55:841][405]LogSavePackage: Moving '../../../../../../Users/Peter/Documents/Unreal Projects/MyProject2/Saved/Untitled_2_Auto270FB826A4C4678DDEAE19E9005C16F31.tmp' to '../../../../../../Users/Peter/Documents/Unreal Projects/MyProject2/Saved/Autosaves/Temp/Untitled_2_Auto2.umap'
+[2018.08.26-19.43.55:850][405]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_2' took 0.178
+[2018.08.26-19.43.55:853][405]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.178
+[2018.08.26-19.44.34:180][597]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.44.40:840][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.44.55:684][716]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2018.08.26-19.44.56:427][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.45.15:398][608]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.45.23:915][ 53]LogSlate: Window 'Color Picker' being destroyed
+[2018.08.26-19.45.27:715][263]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.45.40:490][933]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.45.42:032][ 25]LogEditorViewport: Clicking Background
+[2018.08.26-19.45.43:374][101]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)
+[2018.08.26-19.45.49:902][456]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.08.26-19.46.01:169][976]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)
+[2018.08.26-19.46.04:953][104]LogEditorViewport: Clicking Background
+[2018.08.26-19.46.05:866][155]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.08.26-19.46.12:562][537]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)
+[2018.08.26-19.46.13:799][602]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.46.23:327][928]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.08.26-19.46.26:834][126]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.46.29:894][298]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.46.35:603][629]LogEditorViewport: Clicking Background
+[2018.08.26-19.46.36:568][682]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.08.26-19.46.45:277][ 54]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2018.08.26-19.46.51:127][395]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.47.01:289][826]LogSlate: Window 'Color Picker' being destroyed
+[2018.08.26-19.47.11:598][373]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.08.26-19.47.11:729][374]LogEditorViewport: Clicking on Component (LMB): DirectionalLightComponent (LightComponent0)
+[2018.08.26-19.47.13:553][478]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.47.50:384][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.48.11:883][ 68]LogEditorViewport: Clicking Background
+[2018.08.26-19.48.13:989][187]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.08.26-19.48.26:475][639]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.48.26:607][647]LogSlate: Window 'Color Picker' being destroyed
+[2018.08.26-19.48.49:907][838]LogEditorViewport: Clicking Background
+[2018.08.26-19.48.52:842][987]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.49.05:087][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.49.09:226][669]LogSlate: Window 'Save Level As' being destroyed
+[2018.08.26-19.49.10:647][748]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.49.26:888][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.49.53:450][507]LogSlate: Window 'Save Content' being destroyed
+[2018.08.26-19.50.03:761][507]LogSlate: Window 'Save Level As' being destroyed
+[2018.08.26-19.50.04:006][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyLevel/Step1" FILE="../../../../../../Users/Peter/Documents/Unreal Projects/MyProject2/Content/MyLevel/Step1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.26-19.50.04:165][507]LogSavePackage: Moving '../../../../../../Users/Peter/Documents/Unreal Projects/MyProject2/Saved/Step1E6C7632F4F3A9C9171E57EAF111CAECD.tmp' to '../../../../../../Users/Peter/Documents/Unreal Projects/MyProject2/Content/MyLevel/Step1.umap'
+[2018.08.26-19.50.04:291][507]LogFileHelpers: Saving map 'Step1' took 0.480
+[2018.08.26-19.50.04:298][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyLevel/Step1_BuiltData" FILE="../../../../../../Users/Peter/Documents/Unreal Projects/MyProject2/Content/MyLevel/Step1_BuiltData.uasset" SILENT=true
+[2018.08.26-19.50.04:362][507]LogSavePackage: Moving '../../../../../../Users/Peter/Documents/Unreal Projects/MyProject2/Saved/Step1_BuiltDataD085B3C2403CD2A7430C35B104079A76.tmp' to '../../../../../../Users/Peter/Documents/Unreal Projects/MyProject2/Content/MyLevel/Step1_BuiltData.uasset'
+[2018.08.26-19.50.43:539][292]LogTextFormatter: Warning: Failed to parse argument "ExistingAsset" as a number (using "0" as a fallback). Please check your format string for errors: "{ExistingAsset} already exists. Do you want to replace it?".
+[2018.08.26-19.50.44:954][292]LogSlate: Window 'Message' being destroyed
+[2018.08.26-19.50.44:964][292]LogSlate: Window 'Save Level As' being destroyed
+[2018.08.26-19.50.45:199][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyLevel/Step1" FILE="../../../../../../Users/Peter/Documents/Unreal Projects/MyProject2/Content/MyLevel/Step1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.26-19.50.45:329][292]LogSavePackage: Moving '../../../../../../Users/Peter/Documents/Unreal Projects/MyProject2/Saved/Step1F8CECAA949DB99E8E1484A9615739257.tmp' to '../../../../../../Users/Peter/Documents/Unreal Projects/MyProject2/Content/MyLevel/Step1.umap'
+[2018.08.26-19.50.45:386][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyLevel/Step1_BuiltData" FILE="../../../../../../Users/Peter/Documents/Unreal Projects/MyProject2/Content/MyLevel/Step1_BuiltData.uasset" SILENT=true
+[2018.08.26-19.50.45:426][292]LogSavePackage: Moving '../../../../../../Users/Peter/Documents/Unreal Projects/MyProject2/Saved/Step1_BuiltDataA24727A844FA03B08090BBB8867E981A.tmp' to '../../../../../../Users/Peter/Documents/Unreal Projects/MyProject2/Content/MyLevel/Step1_BuiltData.uasset'
+[2018.08.26-19.50.45:439][292]LogFileHelpers: Saving map 'Step1' took 0.465
+[2018.08.26-19.50.45:444][292]Cmd: MAP LOAD FILE="../../../../../../Users/Peter/Documents/Unreal Projects/MyProject2/Content/MyLevel/Step1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.26-19.50.45:461][292]LightingResults: New page: Lighting Build
+[2018.08.26-19.50.45:463][292]LoadErrors: New page: Loading map: Step1.umap
+[2018.08.26-19.50.45:466][292]MapCheck: New page: Map Check
+[2018.08.26-19.50.45:467][292]LightingResults: New page: Lighting Build
+[2018.08.26-19.50.45:602][292]LogAIModule: Creating AISystem for world Step1
+[2018.08.26-19.50.45:619][292]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.26-19.50.45:733][292]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.26-19.50.45:928][292]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 194.804ms to complete.
+[2018.08.26-19.50.45:928][292]LogFileHelpers: Loading map 'Step1' took 0.489
+[2018.08.26-19.50.48:500][422]LogEditorViewport: Clicking Background
+[2018.08.26-19.51.11:045][745]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.51.12:007][790]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.51.17:063][ 33]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.26-19.51.17:119][ 33]PIE: New page: PIE session: Step1 (Aug 26, 2018, 7:51:17 AM)
+[2018.08.26-19.51.17:120][ 33]LogPlayLevel: Creating play world package: /Game/MyLevel/UEDPIE_0_Step1
+[2018.08.26-19.51.17:182][ 33]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061778s)
+[2018.08.26-19.51.17:185][ 33]LogAIModule: Creating AISystem for world Step1
+[2018.08.26-19.51.17:200][ 33]LogPlayLevel: PIE: World Init took: (0.017661s)
+[2018.08.26-19.51.17:200][ 33]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel/Step1.Step1 to /Game/MyLevel/UEDPIE_0_Step1.Step1 (0.080022s)
+[2018.08.26-19.51.17:298][ 33]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.26-19.51.17:331][ 33]LogInit: FAudioDevice initialized.
+[2018.08.26-19.51.17:348][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.51.17:434][ 33]LogLoad: Game class is 'GameModeBase'
+[2018.08.26-19.51.17:439][ 33]LogWorld: Bringing World /Game/MyLevel/UEDPIE_0_Step1.Step1 up for play (max tick rate 60) at 2018.08.26-13.51.17
+[2018.08.26-19.51.17:459][ 33]LogWorld: Bringing up level for play took: 0.023596
+[2018.08.26-19.51.17:713][ 33]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0021 seconds. Added 10 classes and 0 folders.
+[2018.08.26-19.51.17:816][ 33]PIE: Play in editor start time for /Game/MyLevel/UEDPIE_0_Step1 0.243
+[2018.08.26-19.51.23:004][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.26-19.51.23:079][164]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.26-19.51.23:145][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.26-19.51.23:176][165]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.08.26-19.51.24:309][211]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.26-19.51.24:387][211]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.26-19.51.24:388][211]PIE: New page: PIE session: Step1 (Aug 26, 2018, 7:51:24 AM)
+[2018.08.26-19.51.24:388][211]LogPlayLevel: Creating play world package: /Game/MyLevel/UEDPIE_0_Step1
+[2018.08.26-19.51.24:396][211]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008463s)
+[2018.08.26-19.51.24:398][211]LogAIModule: Creating AISystem for world Step1
+[2018.08.26-19.51.24:400][211]LogPlayLevel: PIE: World Init took: (0.003025s)
+[2018.08.26-19.51.24:400][211]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel/Step1.Step1 to /Game/MyLevel/UEDPIE_0_Step1.Step1 (0.011950s)
+[2018.08.26-19.51.24:474][211]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.26-19.51.24:504][211]LogInit: FAudioDevice initialized.
+[2018.08.26-19.51.24:547][211]LogLoad: Game class is 'GameModeBase'
+[2018.08.26-19.51.24:551][211]LogWorld: Bringing World /Game/MyLevel/UEDPIE_0_Step1.Step1 up for play (max tick rate 60) at 2018.08.26-13.51.24
+[2018.08.26-19.51.24:552][211]LogWorld: Bringing up level for play took: 0.003824
+[2018.08.26-19.51.24:570][211]PIE: Play in editor start time for /Game/MyLevel/UEDPIE_0_Step1 0.997
+[2018.08.26-19.51.25:982][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.26-19.51.26:026][250]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.26-19.51.26:093][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.26-19.51.26:122][251]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.08.26-19.51.27:067][290]MapCheck: New page: Map Check
+[2018.08.26-19.51.27:087][290]Cmd: MAP REBUILD ALLVISIBLE
+[2018.08.26-19.51.27:087][290]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.08.26-19.51.27:225][290]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.08.26-19.51.27:246][290]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.26-19.51.27:246][290]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.08.26-19.51.27:274][290]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2018.08.26-19.51.27:295][290]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.08.26-19.51.29:869][290]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.26-19.51.29:869][290]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.26-19.51.29:869][290]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.26-19.51.29:869][290]TextureStreamingBuild: Display: Compiling optional shaders took 2.660 seconds.
+[2018.08.26-19.51.29:926][290]LogLevel: Display: Export Material TexCoord Scales took 0.057 seconds.
+[2018.08.26-19.51.29:959][290]TextureStreamingBuild: Display: Build Texture Streaming took 0.032 seconds.
+[2018.08.26-19.51.30:012][290]LightingResults: New page: Lighting Build - Aug 26, 2018, 7:51:30 AM
+[2018.08.26-19.51.30:040][290]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.08.26-19.51.30:050][290]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.08.26-19.51.30:050][290]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.08.26-19.51.30:055][290]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.08.26-19.51.30:055][290]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13292
+[2018.08.26-19.51.34:668][290]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.08.26-19.51.34:668][290]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.08.26-19.51.34:668][290]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.08.26-19.51.34:668][290]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.08.26-19.51.34:668][290]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.08.26-19.51.34:668][290]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.08.26-19.51.35:361][290]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.08.26-19.51.35:361][290]MapCheck: New page: Step1 - Aug 26, 2018, 7:51:35 AM
+[2018.08.26-19.51.35:448][290]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2018.08.26-19.51.35:753][290]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 391.817ms to complete.
+[2018.08.26-19.51.35:782][290]LogEditorBuildUtils: Build time 0:08
+[2018.08.26-19.51.35:889][290]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2018.08.26-19.51.35:919][290]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.26-19.51.35:919][290]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2018.08.26-19.51.36:342][290]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.26-19.51.42:818][434]Job is a success!
+[2018.08.26-19.51.42:915][435]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.017s
+[2018.08.26-19.51.42:915][435]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.08.26-19.51.42:915][435]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2018.08.26-19.51.42:915][435]LogVolumetricLightmapImport:      Bricks at Level
+[2018.08.26-19.51.42:915][435]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2018.08.26-19.51.42:915][435]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2018.08.26-19.51.42:916][435]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2018.08.26-19.51.43:072][435]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 128X64)
+[2018.08.26-19.51.43:072][435]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 128X128)
+[2018.08.26-19.51.43:072][435]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 128X128)
+[2018.08.26-19.51.43:072][435]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 128X64)
+[2018.08.26-19.51.43:072][435]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 128X128)
+[2018.08.26-19.51.43:072][435]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 128X128)
+[2018.08.26-19.51.43:072][435]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 64X64)
+[2018.08.26-19.51.43:072][435]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 128X32)
+[2018.08.26-19.51.43:191][435]Lightmass on DESKTOP-K009S2H: 2.33 sec total, 796 ms importing, 60 ms setup, 203 ms photons, 1.12 sec processing, 0 ms extra exporting [12/12 mappings]. Threads: 4.47 sec total, 761 ms processing.
+[2018.08.26-19.51.43:206][435]LogStaticLightingSystem: Illumination: 13.1 sec (45 ms encoding lightmaps, 88 ms encoding shadowmaps)
+[2018.08.26-19.51.43:206][435]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.08.26-19.51.43:206][435]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.08.26-19.51.43:702][435]DumpUnbuiltLightIteractions
+[2018.08.26-19.51.43:702][435]Lights with unbuilt interactions: 0
+[2018.08.26-19.51.43:702][435]
+[2018.08.26-19.51.43:702][435]Primitives with unbuilt interactions: 0
+[2018.08.26-19.51.43:710][435]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.51.43:831][436]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.08.26-19.51.43:831][436]MapCheck: New page: Step1 - Aug 26, 2018, 7:51:43 AM
+[2018.08.26-19.51.44:042][436]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 211.211ms to complete.
+[2018.08.26-19.51.44:964][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.51.45:112][498]LogSlate: Window 'Message Log' being destroyed
+[2018.08.26-19.51.45:124][498]LogSlate: Window 'Message Log' being destroyed
+[2018.08.26-19.51.47:066][602]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.51.48:729][697]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.26-19.51.48:730][697]PIE: New page: PIE session: Step1 (Aug 26, 2018, 7:51:48 AM)
+[2018.08.26-19.51.48:730][697]LogPlayLevel: Creating play world package: /Game/MyLevel/UEDPIE_0_Step1
+[2018.08.26-19.51.48:738][697]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007974s)
+[2018.08.26-19.51.48:739][697]LogAIModule: Creating AISystem for world Step1
+[2018.08.26-19.51.48:740][697]LogPlayLevel: PIE: World Init took: (0.001700s)
+[2018.08.26-19.51.48:740][697]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel/Step1.Step1 to /Game/MyLevel/UEDPIE_0_Step1.Step1 (0.010079s)
+[2018.08.26-19.51.48:805][697]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.26-19.51.48:827][697]LogInit: FAudioDevice initialized.
+[2018.08.26-19.51.48:827][697]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.51.48:866][697]LogLoad: Game class is 'GameModeBase'
+[2018.08.26-19.51.48:870][697]LogWorld: Bringing World /Game/MyLevel/UEDPIE_0_Step1.Step1 up for play (max tick rate 60) at 2018.08.26-13.51.48
+[2018.08.26-19.51.48:871][697]LogWorld: Bringing up level for play took: 0.003566
+[2018.08.26-19.51.48:886][697]PIE: Play in editor start time for /Game/MyLevel/UEDPIE_0_Step1 -0.687
+[2018.08.26-19.52.13:546][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.26-19.52.13:619][556]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.26-19.52.13:678][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.26-19.52.13:738][557]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.08.26-19.52.28:095][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.52.28:217][792]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.26-19.52.28:251][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.26-19.52.28:252][792]PIE: New page: PIE session: Step1 (Aug 26, 2018, 7:52:28 AM)
+[2018.08.26-19.52.28:252][792]LogPlayLevel: Creating play world package: /Game/MyLevel/UEDPIE_0_Step1
+[2018.08.26-19.52.28:261][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008622s)
+[2018.08.26-19.52.28:262][792]LogAIModule: Creating AISystem for world Step1
+[2018.08.26-19.52.28:262][792]LogPlayLevel: PIE: World Init took: (0.001781s)
+[2018.08.26-19.52.28:263][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel/Step1.Step1 to /Game/MyLevel/UEDPIE_0_Step1.Step1 (0.010752s)
+[2018.08.26-19.52.28:327][792]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.26-19.52.28:348][792]LogInit: FAudioDevice initialized.
+[2018.08.26-19.52.28:386][792]LogLoad: Game class is 'GameModeBase'
+[2018.08.26-19.52.28:390][792]LogWorld: Bringing World /Game/MyLevel/UEDPIE_0_Step1.Step1 up for play (max tick rate 60) at 2018.08.26-13.52.28
+[2018.08.26-19.52.28:391][792]LogWorld: Bringing up level for play took: 0.003734
+[2018.08.26-19.52.28:407][792]PIE: Play in editor start time for /Game/MyLevel/UEDPIE_0_Step1 0.835
+[2018.08.26-19.52.38:480][158]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.53.07:568][204]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-19.53.35:543][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.26-19.53.35:605][592]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.26-19.53.35:677][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.26-19.53.35:738][593]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.08.26-19.53.41:766][855]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.08.26-19.53.56:155][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.55.54:101][734]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.57.00:782][610]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.57.21:061][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.57.34:987][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.58.01:229][415]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.58.01:375][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyLevel/Step1" FILE="../../../../../../Users/Peter/Documents/Unreal Projects/MyProject2/Content/MyLevel/Step1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.26-19.58.01:536][422]LogSavePackage: Moving '../../../../../../Users/Peter/Documents/Unreal Projects/MyProject2/Saved/Step1E159BE784D41D0A95D3D7A95FFC792D7.tmp' to '../../../../../../Users/Peter/Documents/Unreal Projects/MyProject2/Content/MyLevel/Step1.umap'
+[2018.08.26-19.58.01:658][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyLevel/Step1_BuiltData" FILE="../../../../../../Users/Peter/Documents/Unreal Projects/MyProject2/Content/MyLevel/Step1_BuiltData.uasset" SILENT=true
+[2018.08.26-19.58.01:723][422]LogSavePackage: Moving '../../../../../../Users/Peter/Documents/Unreal Projects/MyProject2/Saved/Step1_BuiltData7D4C75A84585CADE38F3B681811A23F4.tmp' to '../../../../../../Users/Peter/Documents/Unreal Projects/MyProject2/Content/MyLevel/Step1_BuiltData.uasset'
+[2018.08.26-19.58.03:232][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.58.03:368][510]MapCheck: New page: Map Check
+[2018.08.26-19.58.03:392][510]Cmd: MAP REBUILD ALLVISIBLE
+[2018.08.26-19.58.03:392][510]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.08.26-19.58.03:513][510]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.08.26-19.58.03:533][510]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.26-19.58.03:533][510]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.08.26-19.58.03:558][510]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2018.08.26-19.58.03:576][510]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.08.26-19.58.06:319][510]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.26-19.58.06:319][510]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.26-19.58.06:319][510]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.26-19.58.06:319][510]TextureStreamingBuild: Display: Compiling optional shaders took 2.815 seconds.
+[2018.08.26-19.58.06:389][510]LogLevel: Display: Export Material TexCoord Scales took 0.070 seconds.
+[2018.08.26-19.58.06:413][510]TextureStreamingBuild: Display: Build Texture Streaming took 0.022 seconds.
+[2018.08.26-19.58.06:472][510]LightingResults: New page: Lighting Build - Aug 26, 2018, 7:58:06 AM
+[2018.08.26-19.58.06:504][510]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.08.26-19.58.06:511][510]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.08.26-19.58.06:511][510]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.08.26-19.58.06:514][510]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.08.26-19.58.06:514][510]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13292
+[2018.08.26-19.58.11:030][510]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.08.26-19.58.11:030][510]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.08.26-19.58.11:030][510]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.08.26-19.58.11:030][510]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.08.26-19.58.11:030][510]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.08.26-19.58.11:529][510]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.08.26-19.58.11:529][510]MapCheck: New page: Step1 - Aug 26, 2018, 7:58:11 AM
+[2018.08.26-19.58.11:763][510]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 233.275ms to complete.
+[2018.08.26-19.58.11:787][510]LogEditorBuildUtils: Build time 0:08
+[2018.08.26-19.58.18:079][612]Job is a success!
+[2018.08.26-19.58.18:499][613]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.021s
+[2018.08.26-19.58.18:499][613]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.08.26-19.58.18:499][613]LogVolumetricLightmapImport:      BrickData 20x5x5 = 0.0Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2018.08.26-19.58.18:499][613]LogVolumetricLightmapImport:      Bricks at Level
+[2018.08.26-19.58.18:499][613]LogVolumetricLightmapImport:          0: 25.0% covering 100.0% of volume
+[2018.08.26-19.58.18:499][613]LogVolumetricLightmapImport:          1: 25.0% covering 1.6% of volume
+[2018.08.26-19.58.18:499][613]LogVolumetricLightmapImport:          2: 50.0% covering 0.0% of volume
+[2018.08.26-19.58.18:702][613]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 128X64)
+[2018.08.26-19.58.18:702][613]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 128X128)
+[2018.08.26-19.58.18:703][613]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 128X128)
+[2018.08.26-19.58.18:703][613]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 128X64)
+[2018.08.26-19.58.18:703][613]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 128X128)
+[2018.08.26-19.58.18:703][613]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 128X128)
+[2018.08.26-19.58.18:703][613]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 64X64)
+[2018.08.26-19.58.18:703][613]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 128X32)
+[2018.08.26-19.58.18:796][613]Lightmass on DESKTOP-K009S2H: 4.72 sec total, 1.91 sec importing, 132 ms setup, 232 ms photons, 1.83 sec processing, 0 ms extra exporting [12/12 mappings]. Threads: 7.25 sec total, 311 ms processing.
+[2018.08.26-19.58.18:813][613]LogStaticLightingSystem: Illumination: 12.0 sec (45 ms encoding lightmaps, 97 ms encoding shadowmaps)
+[2018.08.26-19.58.18:813][613]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.08.26-19.58.18:813][613]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.08.26-19.58.19:052][613]DumpUnbuiltLightIteractions
+[2018.08.26-19.58.19:052][613]Lights with unbuilt interactions: 0
+[2018.08.26-19.58.19:052][613]
+[2018.08.26-19.58.19:053][613]Primitives with unbuilt interactions: 0
+[2018.08.26-19.58.19:182][614]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.08.26-19.58.19:182][614]MapCheck: New page: Step1 - Aug 26, 2018, 7:58:19 AM
+[2018.08.26-19.58.19:403][614]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 220.899ms to complete.
+[2018.08.26-19.58.36:388][694]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.26-19.58.37:688][755]LogEditorViewport: Clicking Background
+[2018.08.26-19.58.40:893][943]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.08.26-19.58.54:164][671]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.26-19.58.59:351][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.59.17:681][632]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.59.25:048][ 16]LogEditorViewport: Clicking Background
+[2018.08.26-19.59.27:054][131]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.08.26-19.59.29:093][246]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-19.59.29:209][253]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.26-19.59.29:244][253]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.26-19.59.29:244][253]PIE: New page: PIE session: Step1 (Aug 26, 2018, 7:59:29 AM)
+[2018.08.26-19.59.29:245][253]LogPlayLevel: Creating play world package: /Game/MyLevel/UEDPIE_0_Step1
+[2018.08.26-19.59.29:257][253]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012688s)
+[2018.08.26-19.59.29:259][253]LogAIModule: Creating AISystem for world Step1
+[2018.08.26-19.59.29:259][253]LogPlayLevel: PIE: World Init took: (0.001700s)
+[2018.08.26-19.59.29:260][253]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel/Step1.Step1 to /Game/MyLevel/UEDPIE_0_Step1.Step1 (0.015030s)
+[2018.08.26-19.59.29:329][253]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.26-19.59.29:352][253]LogInit: FAudioDevice initialized.
+[2018.08.26-19.59.29:392][253]LogLoad: Game class is 'GameModeBase'
+[2018.08.26-19.59.29:396][253]LogWorld: Bringing World /Game/MyLevel/UEDPIE_0_Step1.Step1 up for play (max tick rate 60) at 2018.08.26-13.59.29
+[2018.08.26-19.59.29:397][253]LogWorld: Bringing up level for play took: 0.003636
+[2018.08.26-19.59.29:412][253]PIE: Play in editor start time for /Game/MyLevel/UEDPIE_0_Step1 -0.16
+[2018.08.26-19.59.46:711][823]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.26-19.59.46:779][823]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.26-19.59.46:838][823]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.26-19.59.46:904][824]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.08.26-19.59.47:998][882]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.08.26-19.59.53:124][139]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2018.08.26-20.00.08:660][833]LogEditorViewport: Clicking Background
+[2018.08.26-20.00.10:055][913]Cmd: SELECT NONE
+[2018.08.26-20.00.11:563][999]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-20.00.11:661][  5]MapCheck: New page: Map Check
+[2018.08.26-20.00.11:684][  5]Cmd: MAP REBUILD ALLVISIBLE
+[2018.08.26-20.00.11:684][  5]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.08.26-20.00.11:799][  5]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.08.26-20.00.11:818][  5]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.26-20.00.11:818][  5]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.08.26-20.00.11:837][  5]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2018.08.26-20.00.11:853][  5]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.08.26-20.00.13:620][  5]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.26-20.00.13:620][  5]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.26-20.00.13:620][  5]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.26-20.00.13:620][  5]TextureStreamingBuild: Display: Compiling optional shaders took 1.831 seconds.
+[2018.08.26-20.00.13:674][  5]LogLevel: Display: Export Material TexCoord Scales took 0.054 seconds.
+[2018.08.26-20.00.13:724][  5]TextureStreamingBuild: Display: Build Texture Streaming took 0.048 seconds.
+[2018.08.26-20.00.13:785][  5]LightingResults: New page: Lighting Build - Aug 26, 2018, 8:00:13 AM
+[2018.08.26-20.00.13:803][  5]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.08.26-20.00.13:810][  5]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.08.26-20.00.13:811][  5]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.08.26-20.00.13:812][  5]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.08.26-20.00.13:812][  5]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13292
+[2018.08.26-20.00.18:333][  5]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.08.26-20.00.18:333][  5]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.08.26-20.00.18:333][  5]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.08.26-20.00.18:333][  5]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.08.26-20.00.18:333][  5]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.08.26-20.00.18:808][  5]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.08.26-20.00.18:808][  5]MapCheck: New page: Step1 - Aug 26, 2018, 8:00:18 AM
+[2018.08.26-20.00.18:809][  5]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2018.08.26-20.00.18:997][  5]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 188.272ms to complete.
+[2018.08.26-20.00.19:022][  5]LogEditorBuildUtils: Build time 0:07
+[2018.08.26-20.00.19:032][  5]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-20.00.22:508][124]Job is a success!
+[2018.08.26-20.00.22:600][125]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.015s
+[2018.08.26-20.00.22:600][125]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.08.26-20.00.22:601][125]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2018.08.26-20.00.22:601][125]LogVolumetricLightmapImport:      Bricks at Level
+[2018.08.26-20.00.22:601][125]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2018.08.26-20.00.22:601][125]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2018.08.26-20.00.22:601][125]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2018.08.26-20.00.22:745][125]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 128X64)
+[2018.08.26-20.00.22:745][125]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 128X128)
+[2018.08.26-20.00.22:745][125]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 128X128)
+[2018.08.26-20.00.22:746][125]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 128X64)
+[2018.08.26-20.00.22:746][125]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 128X128)
+[2018.08.26-20.00.22:746][125]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 128X128)
+[2018.08.26-20.00.22:746][125]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 64X64)
+[2018.08.26-20.00.22:746][125]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 128X32)
+[2018.08.26-20.00.22:852][125]Lightmass on DESKTOP-K009S2H: 2.05 sec total, 700 ms importing, 60 ms setup, 180 ms photons, 1.04 sec processing, 0 ms extra exporting [12/12 mappings]. Threads: 4.15 sec total, 382 ms processing.
+[2018.08.26-20.00.22:872][125]LogStaticLightingSystem: Illumination: 9.05 sec (33 ms encoding lightmaps, 89 ms encoding shadowmaps)
+[2018.08.26-20.00.22:872][125]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.08.26-20.00.22:872][125]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.08.26-20.00.23:341][125]DumpUnbuiltLightIteractions
+[2018.08.26-20.00.23:341][125]Lights with unbuilt interactions: 0
+[2018.08.26-20.00.23:341][125]
+[2018.08.26-20.00.23:341][125]Primitives with unbuilt interactions: 0
+[2018.08.26-20.00.23:352][125]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-20.00.23:477][126]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.08.26-20.00.23:478][126]MapCheck: New page: Step1 - Aug 26, 2018, 8:00:23 AM
+[2018.08.26-20.00.23:689][126]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 211.561ms to complete.
+[2018.08.26-20.00.25:048][206]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-20.00.25:162][213]LogSlate: Window 'Message Log' being destroyed
+[2018.08.26-20.00.25:174][213]LogSlate: Window 'Message Log' being destroyed
+[2018.08.26-20.00.25:783][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-20.00.25:866][254]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.26-20.00.25:897][254]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.26-20.00.25:898][254]PIE: New page: PIE session: Step1 (Aug 26, 2018, 8:00:25 AM)
+[2018.08.26-20.00.25:898][254]LogPlayLevel: Creating play world package: /Game/MyLevel/UEDPIE_0_Step1
+[2018.08.26-20.00.25:910][254]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011933s)
+[2018.08.26-20.00.25:911][254]LogAIModule: Creating AISystem for world Step1
+[2018.08.26-20.00.25:912][254]LogPlayLevel: PIE: World Init took: (0.002009s)
+[2018.08.26-20.00.25:912][254]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel/Step1.Step1 to /Game/MyLevel/UEDPIE_0_Step1.Step1 (0.014461s)
+[2018.08.26-20.00.25:972][254]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.26-20.00.25:996][254]LogInit: FAudioDevice initialized.
+[2018.08.26-20.00.26:037][254]LogLoad: Game class is 'GameModeBase'
+[2018.08.26-20.00.26:040][254]LogWorld: Bringing World /Game/MyLevel/UEDPIE_0_Step1.Step1 up for play (max tick rate 60) at 2018.08.26-14.00.26
+[2018.08.26-20.00.26:041][254]LogWorld: Bringing up level for play took: 0.003198
+[2018.08.26-20.00.26:058][254]PIE: Play in editor start time for /Game/MyLevel/UEDPIE_0_Step1 0.485
+[2018.08.26-20.00.30:962][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.26-20.00.31:025][422]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.26-20.00.31:081][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.26-20.00.31:111][423]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.08.26-20.00.32:296][485]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.08.26-20.00.34:294][594]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-20.00.42:123][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-20.00.45:901][170]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.08.26-20.00.47:180][239]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-20.00.50:549][381]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.08.26-20.00.52:952][497]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.08.26-20.00.54:572][578]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.08.26-20.00.58:650][805]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-20.01.06:932][214]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.08.26-20.01.07:643][251]LogEditorViewport: Clicking Background
+[2018.08.26-20.01.09:369][350]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-20.01.12:608][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-20.01.12:741][549]MapCheck: New page: Map Check
+[2018.08.26-20.01.12:761][549]Cmd: MAP REBUILD ALLVISIBLE
+[2018.08.26-20.01.12:761][549]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.08.26-20.01.12:867][549]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.08.26-20.01.12:884][549]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.08.26-20.01.12:907][549]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.26-20.01.12:907][549]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2018.08.26-20.01.12:924][549]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.08.26-20.01.14:748][549]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.26-20.01.14:749][549]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.26-20.01.14:749][549]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.26-20.01.14:749][549]TextureStreamingBuild: Display: Compiling optional shaders took 1.890 seconds.
+[2018.08.26-20.01.14:808][549]LogLevel: Display: Export Material TexCoord Scales took 0.059 seconds.
+[2018.08.26-20.01.14:829][549]TextureStreamingBuild: Display: Build Texture Streaming took 0.019 seconds.
+[2018.08.26-20.01.14:879][549]LightingResults: New page: Lighting Build - Aug 26, 2018, 8:01:14 AM
+[2018.08.26-20.01.14:898][549]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.08.26-20.01.14:905][549]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.08.26-20.01.14:905][549]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.08.26-20.01.14:907][549]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.08.26-20.01.14:908][549]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13292
+[2018.08.26-20.01.19:428][549]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.08.26-20.01.19:428][549]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.08.26-20.01.19:429][549]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.08.26-20.01.19:429][549]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.08.26-20.01.19:429][549]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.08.26-20.01.19:790][549]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.08.26-20.01.19:790][549]MapCheck: New page: Step1 - Aug 26, 2018, 8:01:19 AM
+[2018.08.26-20.01.19:971][549]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 181.173ms to complete.
+[2018.08.26-20.01.19:996][549]LogEditorBuildUtils: Build time 0:07
+[2018.08.26-20.01.23:181][660]Job is a success!
+[2018.08.26-20.01.23:224][662]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-20.01.23:285][662]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.019s
+[2018.08.26-20.01.23:285][662]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.08.26-20.01.23:286][662]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2018.08.26-20.01.23:286][662]LogVolumetricLightmapImport:      Bricks at Level
+[2018.08.26-20.01.23:286][662]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2018.08.26-20.01.23:286][662]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2018.08.26-20.01.23:286][662]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2018.08.26-20.01.23:485][662]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 128X64)
+[2018.08.26-20.01.23:485][662]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 128X128)
+[2018.08.26-20.01.23:485][662]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 128X128)
+[2018.08.26-20.01.23:485][662]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 128X64)
+[2018.08.26-20.01.23:485][662]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 128X128)
+[2018.08.26-20.01.23:485][662]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 128X128)
+[2018.08.26-20.01.23:485][662]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 64X64)
+[2018.08.26-20.01.23:485][662]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 128X32)
+[2018.08.26-20.01.23:594][662]Lightmass on DESKTOP-K009S2H: 2.01 sec total, 591 ms importing, 81 ms setup, 210 ms photons, 1.06 sec processing, 0 ms extra exporting [12/12 mappings]. Threads: 4.22 sec total, 341 ms processing.
+[2018.08.26-20.01.23:616][662]LogStaticLightingSystem: Illumination: 8.70 sec (36 ms encoding lightmaps, 135 ms encoding shadowmaps)
+[2018.08.26-20.01.23:616][662]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.08.26-20.01.23:616][662]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.08.26-20.01.24:437][662]DumpUnbuiltLightIteractions
+[2018.08.26-20.01.24:437][662]Lights with unbuilt interactions: 0
+[2018.08.26-20.01.24:437][662]
+[2018.08.26-20.01.24:437][662]Primitives with unbuilt interactions: 0
+[2018.08.26-20.01.24:445][662]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-20.01.24:573][663]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.08.26-20.01.24:574][663]MapCheck: New page: Step1 - Aug 26, 2018, 8:01:24 AM
+[2018.08.26-20.01.24:779][663]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 205.441ms to complete.
+[2018.08.26-20.01.25:297][694]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-20.01.25:397][700]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.26-20.01.25:427][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.26-20.01.25:428][700]PIE: New page: PIE session: Step1 (Aug 26, 2018, 8:01:25 AM)
+[2018.08.26-20.01.25:428][700]LogPlayLevel: Creating play world package: /Game/MyLevel/UEDPIE_0_Step1
+[2018.08.26-20.01.25:437][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009260s)
+[2018.08.26-20.01.25:439][700]LogAIModule: Creating AISystem for world Step1
+[2018.08.26-20.01.25:439][700]LogPlayLevel: PIE: World Init took: (0.001844s)
+[2018.08.26-20.01.25:440][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel/Step1.Step1 to /Game/MyLevel/UEDPIE_0_Step1.Step1 (0.011476s)
+[2018.08.26-20.01.25:498][700]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.26-20.01.25:520][700]LogInit: FAudioDevice initialized.
+[2018.08.26-20.01.25:565][700]LogLoad: Game class is 'GameModeBase'
+[2018.08.26-20.01.25:569][700]LogWorld: Bringing World /Game/MyLevel/UEDPIE_0_Step1.Step1 up for play (max tick rate 60) at 2018.08.26-14.01.25
+[2018.08.26-20.01.25:570][700]LogWorld: Bringing up level for play took: 0.003831
+[2018.08.26-20.01.25:586][700]PIE: Play in editor start time for /Game/MyLevel/UEDPIE_0_Step1 0.013
+[2018.08.26-20.01.39:830][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.26-20.01.39:898][201]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.26-20.01.39:953][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.26-20.01.40:007][202]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.08.26-20.01.46:461][561]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2018.08.26-20.01.53:188][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-20.01.57:974][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-20.02.03:800][448]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-20.02.04:582][494]LogEditorViewport: Clicking Background
+[2018.08.26-20.02.11:566][832]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2018.08.26-20.02.13:341][923]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-20.02.26:179][405]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-20.02.26:295][412]MapCheck: New page: Map Check
+[2018.08.26-20.02.26:314][412]Cmd: MAP REBUILD ALLVISIBLE
+[2018.08.26-20.02.26:315][412]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.08.26-20.02.26:425][412]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.08.26-20.02.26:442][412]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.26-20.02.26:442][412]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.08.26-20.02.26:464][412]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2018.08.26-20.02.26:481][412]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.08.26-20.02.28:236][412]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.26-20.02.28:236][412]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.26-20.02.28:236][412]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.26-20.02.28:236][412]TextureStreamingBuild: Display: Compiling optional shaders took 1.821 seconds.
+[2018.08.26-20.02.28:292][412]LogLevel: Display: Export Material TexCoord Scales took 0.055 seconds.
+[2018.08.26-20.02.28:312][412]TextureStreamingBuild: Display: Build Texture Streaming took 0.019 seconds.
+[2018.08.26-20.02.28:369][412]LightingResults: New page: Lighting Build - Aug 26, 2018, 8:02:28 AM
+[2018.08.26-20.02.28:392][412]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.08.26-20.02.28:399][412]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.08.26-20.02.28:399][412]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.08.26-20.02.28:401][412]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.08.26-20.02.28:401][412]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13292
+[2018.08.26-20.02.32:917][412]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.08.26-20.02.32:918][412]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.08.26-20.02.32:918][412]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.08.26-20.02.32:918][412]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.08.26-20.02.32:918][412]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.08.26-20.02.33:276][412]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.08.26-20.02.33:276][412]MapCheck: New page: Step1 - Aug 26, 2018, 8:02:33 AM
+[2018.08.26-20.02.33:277][412]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2018.08.26-20.02.33:455][412]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 178.268ms to complete.
+[2018.08.26-20.02.33:479][412]LogEditorBuildUtils: Build time 0:07
+[2018.08.26-20.02.33:488][412]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-20.02.36:772][511]Job is a success!
+[2018.08.26-20.02.36:866][512]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.018s
+[2018.08.26-20.02.36:866][512]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.08.26-20.02.36:866][512]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2018.08.26-20.02.36:866][512]LogVolumetricLightmapImport:      Bricks at Level
+[2018.08.26-20.02.36:866][512]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2018.08.26-20.02.36:866][512]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2018.08.26-20.02.36:866][512]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2018.08.26-20.02.37:083][512]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 128X64)
+[2018.08.26-20.02.37:083][512]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 128X128)
+[2018.08.26-20.02.37:083][512]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 128X128)
+[2018.08.26-20.02.37:083][512]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 128X64)
+[2018.08.26-20.02.37:083][512]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 128X128)
+[2018.08.26-20.02.37:084][512]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 128X128)
+[2018.08.26-20.02.37:084][512]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 64X64)
+[2018.08.26-20.02.37:089][512]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 128X32)
+[2018.08.26-20.02.37:201][512]Lightmass on DESKTOP-K009S2H: 2.06 sec total, 616 ms importing, 113 ms setup, 212 ms photons, 1.05 sec processing, 0 ms extra exporting [12/12 mappings]. Threads: 4.16 sec total, 534 ms processing.
+[2018.08.26-20.02.37:220][512]LogStaticLightingSystem: Illumination: 8.81 sec (36 ms encoding lightmaps, 171 ms encoding shadowmaps)
+[2018.08.26-20.02.37:221][512]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.08.26-20.02.37:221][512]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.08.26-20.02.37:932][512]DumpUnbuiltLightIteractions
+[2018.08.26-20.02.37:932][512]Lights with unbuilt interactions: 0
+[2018.08.26-20.02.37:932][512]
+[2018.08.26-20.02.37:932][512]Primitives with unbuilt interactions: 0
+[2018.08.26-20.02.37:940][512]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-20.02.38:061][513]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.08.26-20.02.38:061][513]MapCheck: New page: Step1 - Aug 26, 2018, 8:02:38 AM
+[2018.08.26-20.02.38:274][513]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 213.282ms to complete.
+[2018.08.26-20.02.39:012][556]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-20.02.39:135][563]LogSlate: Window 'Message Log' being destroyed
+[2018.08.26-20.02.39:153][563]LogSlate: Window 'Message Log' being destroyed
+[2018.08.26-20.02.40:578][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-20.02.40:711][653]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.26-20.02.40:744][653]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.26-20.02.40:744][653]PIE: New page: PIE session: Step1 (Aug 26, 2018, 8:02:40 AM)
+[2018.08.26-20.02.40:744][653]LogPlayLevel: Creating play world package: /Game/MyLevel/UEDPIE_0_Step1
+[2018.08.26-20.02.40:752][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007511s)
+[2018.08.26-20.02.40:753][653]LogAIModule: Creating AISystem for world Step1
+[2018.08.26-20.02.40:754][653]LogPlayLevel: PIE: World Init took: (0.001556s)
+[2018.08.26-20.02.40:754][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel/Step1.Step1 to /Game/MyLevel/UEDPIE_0_Step1.Step1 (0.009392s)
+[2018.08.26-20.02.40:818][653]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.26-20.02.40:842][653]LogInit: FAudioDevice initialized.
+[2018.08.26-20.02.40:890][653]LogLoad: Game class is 'GameModeBase'
+[2018.08.26-20.02.40:894][653]LogWorld: Bringing World /Game/MyLevel/UEDPIE_0_Step1.Step1 up for play (max tick rate 60) at 2018.08.26-14.02.40
+[2018.08.26-20.02.40:894][653]LogWorld: Bringing up level for play took: 0.003881
+[2018.08.26-20.02.40:911][653]PIE: Play in editor start time for /Game/MyLevel/UEDPIE_0_Step1 -0.662
+[2018.08.26-20.02.50:457][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.26-20.02.50:523][984]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.26-20.02.50:572][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.26-20.02.50:630][985]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.08.26-20.02.52:070][ 69]Cmd: SELECT NONE
+[2018.08.26-20.02.56:378][315]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-20.03.00:686][572]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-20.03.00:697][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyLevel/Step1" FILE="../../../../../../Users/Peter/Documents/Unreal Projects/MyProject2/Content/MyLevel/Step1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.26-20.03.00:815][572]LogSavePackage: Moving '../../../../../../Users/Peter/Documents/Unreal Projects/MyProject2/Saved/Step1E7CDD9E943F506B7F581D78E4EC28FE9.tmp' to '../../../../../../Users/Peter/Documents/Unreal Projects/MyProject2/Content/MyLevel/Step1.umap'
+[2018.08.26-20.03.00:875][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyLevel/Step1_BuiltData" FILE="../../../../../../Users/Peter/Documents/Unreal Projects/MyProject2/Content/MyLevel/Step1_BuiltData.uasset" SILENT=true
+[2018.08.26-20.03.00:913][572]LogSavePackage: Moving '../../../../../../Users/Peter/Documents/Unreal Projects/MyProject2/Saved/Step1_BuiltData8E315A024C6BCC3557970AACB0F544EA.tmp' to '../../../../../../Users/Peter/Documents/Unreal Projects/MyProject2/Content/MyLevel/Step1_BuiltData.uasset'
+[2018.08.26-20.06.27:468][603]LogHttp: Warning: 00000189D8BF2340: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.26-20.06.27:468][603]LogHttp: Warning: 00000189D8BF2340: libcurl info message cache 0 (Connection 18 seems to be dead!)
+[2018.08.26-20.06.27:468][603]LogHttp: Warning: 00000189D8BF2340: libcurl info message cache 1 (Closing connection 18)
+[2018.08.26-20.06.27:468][603]LogHttp: Warning: 00000189D8BF2340: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.08.26-20.06.27:468][603]LogHttp: Warning: 00000189D8BF2340: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.26-20.06.27:468][603]LogHttp: Warning: 00000189D8BF2340: libcurl info message cache 4 (Closing connection 19)
+[2018.08.26-20.13.57:176][549]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-20.14.10:041][288]LogSlate: Window 'Open Level' being destroyed
+[2018.08.26-20.14.21:736][861]LogSlate: Window 'New Level' being destroyed
+[2018.08.26-20.14.21:751][861]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.26-20.14.21:808][861]LightingResults: New page: Lighting Build
+[2018.08.26-20.14.21:810][861]LoadErrors: New page: Loading map: Template_Default.umap
+[2018.08.26-20.14.21:812][861]MapCheck: New page: Map Check
+[2018.08.26-20.14.21:812][861]LightingResults: New page: Lighting Build
+[2018.08.26-20.14.21:959][861]LogAIModule: Creating AISystem for world Untitled_3
+[2018.08.26-20.14.22:004][861]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2018.08.26-20.14.22:077][861]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.26-20.14.22:299][861]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 222.007ms to complete.
+[2018.08.26-20.14.22:300][861]LogFileHelpers: Loading map 'Template_Default' took 0.554
+[2018.08.26-20.14.26:956][110]LogAIModule: Creating AISystem for world Step1
+[2018.08.26-20.14.26:963][110]LogAssetEditorManager: Opening Asset editor for World /Game/MyLevel/Step1.Step1
+[2018.08.26-20.14.27:034][110]Cmd: MAP LOAD FILE="../../../../../../Users/Peter/Documents/Unreal Projects/MyProject2/Content/MyLevel/Step1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.26-20.14.27:034][110]LightingResults: New page: Lighting Build
+[2018.08.26-20.14.27:036][110]LoadErrors: New page: Loading map: Step1.umap
+[2018.08.26-20.14.27:037][110]MapCheck: New page: Map Check
+[2018.08.26-20.14.27:037][110]LightingResults: New page: Lighting Build
+[2018.08.26-20.14.27:096][110]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.26-20.14.27:406][110]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.26-20.14.27:654][110]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 247.2ms to complete.
+[2018.08.26-20.14.27:657][110]LogFileHelpers: Loading map 'Step1' took 0.625
+[2018.08.26-20.14.29:376][193]LogAssetEditorManager: Opening Asset editor for MapBuildDataRegistry /Game/MyLevel/Step1_BuiltData.Step1_BuiltData
+[2018.08.26-20.14.31:989][337]LogSlate: Window 'Step1_BuiltData - Generic Asset Editor' being destroyed
+[2018.08.26-20.14.31:997][337]LogSlate: Window 'Step1_BuiltData - Generic Asset Editor' being destroyed
+[2018.08.26-20.14.36:728][543]LogSlate: Window 'New Level' being destroyed
+[2018.08.26-20.14.36:737][543]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.26-20.14.36:756][543]LightingResults: New page: Lighting Build
+[2018.08.26-20.14.36:758][543]LoadErrors: New page: Loading map: Template_Default.umap
+[2018.08.26-20.14.36:760][543]MapCheck: New page: Map Check
+[2018.08.26-20.14.36:760][543]LightingResults: New page: Lighting Build
+[2018.08.26-20.14.36:875][543]LogAIModule: Creating AISystem for world Untitled_4
+[2018.08.26-20.14.36:892][543]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.26-20.14.36:963][543]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.26-20.14.37:193][543]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 230.219ms to complete.
+[2018.08.26-20.14.37:193][543]LogFileHelpers: Loading map 'Template_Default' took 0.459
+[2018.08.26-20.17.34:704][995]LogUProjectInfo: Found projects:
+[2018.08.26-20.17.51:051][312]LogSlate: Window 'Open Project' being destroyed
+[2018.08.26-20.18.21:697][116]LogSlate: Window 'Open Level' being destroyed
+[2018.08.26-20.18.34:552][851]Cmd: MAP LOAD FILE="../../../../../../Users/Peter/Documents/Unreal Projects/MyProject2/Content/MyLevel/Step1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.26-20.18.34:572][851]LightingResults: New page: Lighting Build
+[2018.08.26-20.18.34:574][851]LoadErrors: New page: Loading map: Step1.umap
+[2018.08.26-20.18.34:574][851]MapCheck: New page: Map Check
+[2018.08.26-20.18.34:574][851]LightingResults: New page: Lighting Build
+[2018.08.26-20.18.34:818][851]LogAIModule: Creating AISystem for world Step1
+[2018.08.26-20.18.34:833][851]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.26-20.18.34:973][851]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.26-20.18.35:167][851]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 193.304ms to complete.
+[2018.08.26-20.18.35:167][851]LogFileHelpers: Loading map 'Step1' took 0.617
+[2018.08.26-20.18.35:170][851]LogSlate: Window 'Open Level' being destroyed
+[2018.08.26-20.20.06:755][303]LogSlate: Window 'Open Level' being destroyed
+[2018.08.26-20.21.11:061][699]LogSlate: Window 'Open Level' being destroyed
+[2018.08.26-20.22.06:134][446]LogSlate: Window 'Open Level' being destroyed
+[2018.08.26-20.22.13:166][861]Cmd: MAP LOAD FILE="../../../../../../Users/Peter/Documents/Unreal Projects/MyProject2/Content/Asisgnment1/sadasa.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.26-20.22.13:183][861]LightingResults: New page: Lighting Build
+[2018.08.26-20.22.13:185][861]LoadErrors: New page: Loading map: sadasa.umap
+[2018.08.26-20.22.13:186][861]MapCheck: New page: Map Check
+[2018.08.26-20.22.13:186][861]LightingResults: New page: Lighting Build
+[2018.08.26-20.22.13:542][861]LogAIModule: Creating AISystem for world sadasa
+[2018.08.26-20.22.13:554][861]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.26-20.22.13:771][861]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.26-20.22.13:968][861]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 197.168ms to complete.
+[2018.08.26-20.22.13:968][861]LogFileHelpers: Loading map 'sadasa' took 0.804
+[2018.08.26-20.22.13:971][861]LogSlate: Window 'Open Level' being destroyed
+[2018.08.26-20.24.31:704][529]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-20.25.15:730][184]UATHelper: Packaging (Windows (64-bit)): Running AutomationTool...
+[2018.08.26-20.25.16:368][221]UATHelper: Packaging (Windows (64-bit)): Parsing command line: -ScriptsForProject="C:/Users/Peter/Documents/Unreal Projects/MyProject2/MyProject2.uproject" BuildCookRun -nocompile -nocompileeditor -installed -nop4 -project="C:/Users/Peter/Documents/Unreal Projects/MyProject2/MyProject2.uproject" -cook -stage -archive -archivedirectory="C:/Users/Peter/Desktop/UR Project 1" -package -clientconfig=Development -ue4exe=UE4Editor-Cmd.exe -pak -prereqs -nodebuginfo -targetplatform=Win64 -utf8output
+[2018.08.26-20.25.19:624][416]UATHelper: Packaging (Windows (64-bit)): Setting up ProjectParams for C:\Users\Peter\Documents\Unreal Projects\MyProject2\MyProject2.uproject
+[2018.08.26-20.25.28:399][632]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND STARTED **********
+[2018.08.26-20.25.28:399][632]UATHelper: Packaging (Windows (64-bit)): Running UE4Editor Cook for project C:\Users\Peter\Documents\Unreal Projects\MyProject2\MyProject2.uproject
+[2018.08.26-20.25.28:399][632]UATHelper: Packaging (Windows (64-bit)): Commandlet log file is C:\Program Files\Epic Games\UE_4.20\Engine\Programs\AutomationTool\Saved\Cook-2018.08.26-14.25.28.txt
+[2018.08.26-20.25.28:400][632]UATHelper: Packaging (Windows (64-bit)): Running: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\Win64\UE4Editor-Cmd.exe "C:\Users\Peter\Documents\Unreal Projects\MyProject2\MyProject2.uproject" -run=Cook  -TargetPlatform=WindowsNoEditor -fileopenlog -unversioned -abslog="C:\Program Files\Epic Games\UE_4.20\Engine\Programs\AutomationTool\Saved\Cook-2018.08.26-14.25.28.txt" -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2018.08.26-20.25.29:035][634]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Running engine for game: MyProject2
+[2018.08.26-20.25.31:717][642]UATHelper: Packaging (Windows (64-bit)):   LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+[2018.08.26-20.25.33:398][647]UATHelper: Packaging (Windows (64-bit)):   LogStreaming: Display: Took  0.551s to configure plugins.
+[2018.08.26-20.25.33:861][647]LogSlate: Took 0.033781 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.08.26-20.25.34:147][648]UATHelper: Packaging (Windows (64-bit)):   LogStreaming: Display: Took  0.001s to delete old logs.
+[2018.08.26-20.25.34:283][656]UATHelper: Packaging (Windows (64-bit)):   LogHAL: Display: Platform has ~ 8 GB [7999053824 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.08.26-20.25.35:467][726]UATHelper: Packaging (Windows (64-bit)):   LogStreaming: Display: Took  1.106s to InitEngineTextLocalization.
+[2018.08.26-20.25.45:835][  2]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.26-20.25.45:835][  2]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.26-20.25.45:836][  2]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.26-20.25.45:837][  2]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.26-20.25.45:837][  2]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.26-20.25.46:177][  3]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.26-20.25.46:177][  3]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.26-20.25.46:178][  3]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.26-20.25.46:178][  3]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.26-20.25.46:508][  4]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-20.25.46:510][  4]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-20.25.46:510][  4]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-20.25.46:511][  4]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-20.25.46:511][  4]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-20.25.46:511][  4]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-20.25.46:513][  4]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-20.25.46:530][  4]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-20.25.46:530][  4]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-20.25.46:531][  4]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-20.25.46:533][  4]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-20.25.46:536][  4]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-20.25.46:536][  4]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-20.25.46:537][  4]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-20.25.46:538][  4]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-20.25.46:539][  4]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-20.25.46:539][  4]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-20.25.46:541][  4]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.26-20.25.46:541][  4]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.26-20.25.46:541][  4]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.26-20.25.46:542][  4]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.26-20.25.46:542][  4]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.26-20.25.46:543][  4]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.26-20.25.46:543][  4]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.26-20.25.46:544][  4]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.26-20.25.46:544][  4]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.26-20.25.46:544][  4]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.26-20.25.46:545][  4]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.08.26-20.25.46:545][  4]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Building Assets For WindowsNoEditor
+[2018.08.26-20.25.46:849][  5]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.26-20.25.53:540][ 25]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.26-20.25.53:874][ 26]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Peter/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.08.26-20.25.54:225][ 27]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.26-20.25.58:259][ 39]UATHelper: Packaging (Windows (64-bit)):   LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.26-20.25.58:590][ 40]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.26-20.25.58:592][ 40]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Mobile HDR setting 1
+[2018.08.26-20.25.58:593][ 40]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Creating asset registry
+[2018.08.26-20.26.26:117][122]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Discovering localized assets
+[2018.08.26-20.26.26:451][123]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked content cleared for platform WindowsNoEditor
+[2018.08.26-20.26.26:454][123]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Unable to read previous cook inisettings for platform WindowsNoEditor invalidating cook
+[2018.08.26-20.26.26:456][123]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Sandbox cleanup took 0.177 seconds for platforms WindowsNoEditor  iterative false
+[2018.08.26-20.26.30:822][136]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 0 Packages Remain 184 Total 184
+[2018.08.26-20.26.32:828][142]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 50 Packages Remain 183 Total 233
+[2018.08.26-20.26.34:172][146]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 100 Packages Remain 194 Total 294
+[2018.08.26-20.26.34:975][148]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 150 Packages Remain 195 Total 345
+[2018.08.26-20.26.35:305][149]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 154 Packages Remain 194 Total 348
+[2018.08.26-20.26.35:308][149]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 155 Packages Remain 193 Total 348
+[2018.08.26-20.26.35:308][149]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 156 Packages Remain 192 Total 348
+[2018.08.26-20.26.35:309][149]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 157 Packages Remain 191 Total 348
+[2018.08.26-20.26.35:311][149]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 159 Packages Remain 190 Total 349
+[2018.08.26-20.26.35:566][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 189 Total 349
+[2018.08.26-20.26.35:567][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 189 Total 349
+[2018.08.26-20.26.35:568][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 188 Total 348
+[2018.08.26-20.26.35:569][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 187 Total 347
+[2018.08.26-20.26.35:569][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 186 Total 346
+[2018.08.26-20.26.35:572][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 185 Total 345
+[2018.08.26-20.26.35:573][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 184 Total 344
+[2018.08.26-20.26.35:573][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 183 Total 343
+[2018.08.26-20.26.35:575][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 182 Total 342
+[2018.08.26-20.26.35:579][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 181 Total 341
+[2018.08.26-20.26.35:579][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 180 Total 340
+[2018.08.26-20.26.35:592][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 179 Total 339
+[2018.08.26-20.26.35:593][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 178 Total 338
+[2018.08.26-20.26.35:593][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 177 Total 337
+[2018.08.26-20.26.35:595][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 176 Total 336
+[2018.08.26-20.26.35:596][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 175 Total 335
+[2018.08.26-20.26.35:596][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 174 Total 334
+[2018.08.26-20.26.35:597][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 173 Total 333
+[2018.08.26-20.26.35:598][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 172 Total 332
+[2018.08.26-20.26.35:598][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 171 Total 331
+[2018.08.26-20.26.35:599][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 170 Total 330
+[2018.08.26-20.26.35:600][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 169 Total 329
+[2018.08.26-20.26.35:603][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 168 Total 328
+[2018.08.26-20.26.35:605][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 167 Total 327
+[2018.08.26-20.26.35:605][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 166 Total 326
+[2018.08.26-20.26.35:606][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 165 Total 325
+[2018.08.26-20.26.35:607][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 164 Total 324
+[2018.08.26-20.26.35:608][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 163 Total 323
+[2018.08.26-20.26.35:609][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 162 Total 322
+[2018.08.26-20.26.35:610][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 161 Total 321
+[2018.08.26-20.26.35:610][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 160 Total 320
+[2018.08.26-20.26.35:611][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 159 Total 319
+[2018.08.26-20.26.35:613][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 158 Total 318
+[2018.08.26-20.26.35:613][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 157 Total 317
+[2018.08.26-20.26.35:614][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 156 Total 316
+[2018.08.26-20.26.35:615][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 155 Total 315
+[2018.08.26-20.26.35:617][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 154 Total 314
+[2018.08.26-20.26.35:618][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 153 Total 313
+[2018.08.26-20.26.35:619][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 152 Total 312
+[2018.08.26-20.26.35:620][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 151 Total 311
+[2018.08.26-20.26.35:623][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 150 Total 310
+[2018.08.26-20.26.35:624][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 149 Total 309
+[2018.08.26-20.26.35:624][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 148 Total 308
+[2018.08.26-20.26.35:626][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 147 Total 307
+[2018.08.26-20.26.35:626][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 146 Total 306
+[2018.08.26-20.26.35:627][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 145 Total 305
+[2018.08.26-20.26.35:641][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 144 Total 304
+[2018.08.26-20.26.35:642][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 143 Total 303
+[2018.08.26-20.26.35:643][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 142 Total 302
+[2018.08.26-20.26.35:644][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 141 Total 301
+[2018.08.26-20.26.35:644][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 140 Total 300
+[2018.08.26-20.26.35:645][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 139 Total 299
+[2018.08.26-20.26.35:645][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 138 Total 298
+[2018.08.26-20.26.35:646][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 137 Total 297
+[2018.08.26-20.26.35:647][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 136 Total 296
+[2018.08.26-20.26.35:647][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 135 Total 295
+[2018.08.26-20.26.35:648][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 134 Total 294
+[2018.08.26-20.26.35:650][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 133 Total 293
+[2018.08.26-20.26.35:650][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 132 Total 292
+[2018.08.26-20.26.35:651][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 131 Total 291
+[2018.08.26-20.26.35:652][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 130 Total 290
+[2018.08.26-20.26.35:652][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 129 Total 289
+[2018.08.26-20.26.35:653][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 128 Total 288
+[2018.08.26-20.26.35:653][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 127 Total 287
+[2018.08.26-20.26.35:654][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 126 Total 286
+[2018.08.26-20.26.35:654][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 125 Total 285
+[2018.08.26-20.26.35:655][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 124 Total 284
+[2018.08.26-20.26.35:655][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 123 Total 283
+[2018.08.26-20.26.35:656][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 122 Total 282
+[2018.08.26-20.26.35:656][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 121 Total 281
+[2018.08.26-20.26.35:658][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 120 Total 280
+[2018.08.26-20.26.35:662][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 119 Total 279
+[2018.08.26-20.26.35:663][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 118 Total 278
+[2018.08.26-20.26.35:665][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 117 Total 277
+[2018.08.26-20.26.35:666][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 116 Total 276
+[2018.08.26-20.26.35:666][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 115 Total 275
+[2018.08.26-20.26.35:667][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 114 Total 274
+[2018.08.26-20.26.35:668][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 113 Total 273
+[2018.08.26-20.26.35:670][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 112 Total 272
+[2018.08.26-20.26.35:671][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 111 Total 271
+[2018.08.26-20.26.35:675][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 110 Total 270
+[2018.08.26-20.26.35:676][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 109 Total 269
+[2018.08.26-20.26.35:677][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 108 Total 268
+[2018.08.26-20.26.35:678][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 107 Total 267
+[2018.08.26-20.26.35:686][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 106 Total 266
+[2018.08.26-20.26.35:686][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 105 Total 265
+[2018.08.26-20.26.35:687][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 104 Total 264
+[2018.08.26-20.26.35:688][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 103 Total 263
+[2018.08.26-20.26.35:689][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 102 Total 262
+[2018.08.26-20.26.35:689][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 101 Total 261
+[2018.08.26-20.26.35:690][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 100 Total 260
+[2018.08.26-20.26.35:692][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 99 Total 259
+[2018.08.26-20.26.35:693][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 98 Total 258
+[2018.08.26-20.26.35:694][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 97 Total 257
+[2018.08.26-20.26.35:694][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 96 Total 256
+[2018.08.26-20.26.35:695][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 95 Total 255
+[2018.08.26-20.26.35:695][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 94 Total 254
+[2018.08.26-20.26.35:696][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 93 Total 253
+[2018.08.26-20.26.35:706][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 92 Total 252
+[2018.08.26-20.26.35:707][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 91 Total 251
+[2018.08.26-20.26.35:708][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 90 Total 250
+[2018.08.26-20.26.35:709][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 89 Total 249
+[2018.08.26-20.26.35:709][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 88 Total 248
+[2018.08.26-20.26.35:710][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 87 Total 247
+[2018.08.26-20.26.35:711][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 86 Total 246
+[2018.08.26-20.26.35:712][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 85 Total 245
+[2018.08.26-20.26.35:714][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 84 Total 244
+[2018.08.26-20.26.35:716][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 83 Total 243
+[2018.08.26-20.26.35:716][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 82 Total 242
+[2018.08.26-20.26.35:717][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 81 Total 241
+[2018.08.26-20.26.35:718][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 80 Total 240
+[2018.08.26-20.26.35:718][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 79 Total 239
+[2018.08.26-20.26.35:719][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 78 Total 238
+[2018.08.26-20.26.35:719][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 77 Total 237
+[2018.08.26-20.26.35:720][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 76 Total 236
+[2018.08.26-20.26.35:720][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 75 Total 235
+[2018.08.26-20.26.35:726][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 74 Total 234
+[2018.08.26-20.26.35:727][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 73 Total 233
+[2018.08.26-20.26.35:728][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 72 Total 232
+[2018.08.26-20.26.35:733][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 71 Total 231
+[2018.08.26-20.26.35:733][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 70 Total 230
+[2018.08.26-20.26.35:734][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 69 Total 229
+[2018.08.26-20.26.35:735][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 68 Total 228
+[2018.08.26-20.26.35:735][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 67 Total 227
+[2018.08.26-20.26.35:736][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 66 Total 226
+[2018.08.26-20.26.35:740][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 65 Total 225
+[2018.08.26-20.26.35:754][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 64 Total 224
+[2018.08.26-20.26.35:759][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 63 Total 223
+[2018.08.26-20.26.35:762][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 62 Total 222
+[2018.08.26-20.26.35:763][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 61 Total 221
+[2018.08.26-20.26.35:764][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 60 Total 220
+[2018.08.26-20.26.35:765][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 59 Total 219
+[2018.08.26-20.26.35:765][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 58 Total 218
+[2018.08.26-20.26.35:766][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 57 Total 217
+[2018.08.26-20.26.35:767][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 56 Total 216
+[2018.08.26-20.26.35:768][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 55 Total 215
+[2018.08.26-20.26.35:769][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 54 Total 214
+[2018.08.26-20.26.35:770][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 54 Total 214
+[2018.08.26-20.26.35:770][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 54 Total 214
+[2018.08.26-20.26.35:773][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 54 Total 214
+[2018.08.26-20.26.35:774][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 54 Total 214
+[2018.08.26-20.26.35:775][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 54 Total 214
+[2018.08.26-20.26.35:776][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 54 Total 214
+[2018.08.26-20.26.35:777][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 54 Total 214
+[2018.08.26-20.26.35:778][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 54 Total 214
+[2018.08.26-20.26.35:779][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 54 Total 214
+[2018.08.26-20.26.35:779][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 54 Total 214
+[2018.08.26-20.26.35:780][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 54 Total 214
+[2018.08.26-20.26.35:780][150]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 54 Total 214
+[2018.08.26-20.26.35:887][151]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 174 Packages Remain 53 Total 227
+[2018.08.26-20.26.35:888][151]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 174 Packages Remain 53 Total 227
+[2018.08.26-20.26.35:889][151]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 174 Packages Remain 53 Total 227
+[2018.08.26-20.26.36:206][152]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 174 Packages Remain 53 Total 227
+[2018.08.26-20.26.36:207][152]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 179 Packages Remain 52 Total 231
+[2018.08.26-20.26.37:234][173]UATHelper: Packaging (Windows (64-bit)):   LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling.
+[2018.08.26-20.26.37:952][206]UATHelper: Packaging (Windows (64-bit)):   LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling.
+[2018.08.26-20.26.38:210][209]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 184 Packages Remain 53 Total 237
+[2018.08.26-20.30.24:361][707]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 204 Packages Remain 52 Total 256
+[2018.08.26-20.30.24:361][707]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 204 Packages Remain 51 Total 255
+[2018.08.26-20.30.24:362][707]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 204 Packages Remain 50 Total 254
+[2018.08.26-20.30.24:363][707]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 204 Packages Remain 49 Total 253
+[2018.08.26-20.30.24:364][707]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 204 Packages Remain 48 Total 252
+[2018.08.26-20.30.24:365][707]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 204 Packages Remain 47 Total 251
+[2018.08.26-20.30.24:366][707]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 204 Packages Remain 46 Total 250
+[2018.08.26-20.30.24:367][707]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 204 Packages Remain 45 Total 249
+[2018.08.26-20.30.24:367][707]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 204 Packages Remain 44 Total 248
+[2018.08.26-20.30.24:368][707]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 204 Packages Remain 43 Total 247
+[2018.08.26-20.30.24:370][708]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 204 Packages Remain 42 Total 246
+[2018.08.26-20.30.24:371][708]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 204 Packages Remain 41 Total 245
+[2018.08.26-20.30.24:371][708]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 204 Packages Remain 40 Total 244
+[2018.08.26-20.30.24:372][708]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 204 Packages Remain 39 Total 243
+[2018.08.26-20.30.24:373][708]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 204 Packages Remain 38 Total 242
+[2018.08.26-20.30.24:374][708]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 204 Packages Remain 37 Total 241
+[2018.08.26-20.30.24:374][708]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 204 Packages Remain 36 Total 240
+[2018.08.26-20.30.24:375][708]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 204 Packages Remain 35 Total 239
+[2018.08.26-20.30.24:375][708]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 204 Packages Remain 34 Total 238
+[2018.08.26-20.30.24:682][723]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 205 Packages Remain 33 Total 238
+[2018.08.26-20.30.24:777][727]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 205 Packages Remain 33 Total 238
+[2018.08.26-20.30.24:778][727]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 205 Packages Remain 32 Total 237
+[2018.08.26-20.30.24:779][727]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 205 Packages Remain 31 Total 236
+[2018.08.26-20.30.24:779][727]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 205 Packages Remain 30 Total 235
+[2018.08.26-20.30.24:780][727]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 205 Packages Remain 29 Total 234
+[2018.08.26-20.30.24:781][727]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 205 Packages Remain 28 Total 233
+[2018.08.26-20.30.24:782][727]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 205 Packages Remain 27 Total 232
+[2018.08.26-20.30.24:783][727]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 205 Packages Remain 26 Total 231
+[2018.08.26-20.30.24:783][727]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 205 Packages Remain 25 Total 230
+[2018.08.26-20.30.24:784][727]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 205 Packages Remain 24 Total 229
+[2018.08.26-20.30.24:785][727]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 205 Packages Remain 23 Total 228
+[2018.08.26-20.30.24:785][727]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 205 Packages Remain 22 Total 227
+[2018.08.26-20.30.24:786][727]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 205 Packages Remain 21 Total 226
+[2018.08.26-20.30.24:787][727]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 205 Packages Remain 20 Total 225
+[2018.08.26-20.30.24:788][727]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 205 Packages Remain 19 Total 224
+[2018.08.26-20.30.24:788][727]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 205 Packages Remain 18 Total 223
+[2018.08.26-20.30.24:789][727]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 205 Packages Remain 17 Total 222
+[2018.08.26-20.30.24:789][727]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 205 Packages Remain 16 Total 221
+[2018.08.26-20.30.24:790][727]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 205 Packages Remain 15 Total 220
+[2018.08.26-20.30.24:791][727]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 205 Packages Remain 14 Total 219
+[2018.08.26-20.30.24:791][727]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 205 Packages Remain 13 Total 218
+[2018.08.26-20.30.24:793][727]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 205 Packages Remain 12 Total 217
+[2018.08.26-20.30.24:794][727]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 205 Packages Remain 11 Total 216
+[2018.08.26-20.30.24:795][727]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 205 Packages Remain 10 Total 215
+[2018.08.26-20.30.24:795][727]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 205 Packages Remain 9 Total 214
+[2018.08.26-20.30.24:796][727]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 205 Packages Remain 8 Total 213
+[2018.08.26-20.30.24:797][727]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 205 Packages Remain 7 Total 212
+[2018.08.26-20.30.24:797][727]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 205 Packages Remain 6 Total 211
+[2018.08.26-20.30.24:798][727]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 205 Packages Remain 5 Total 210
+[2018.08.26-20.30.24:798][727]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 205 Packages Remain 4 Total 209
+[2018.08.26-20.30.24:799][727]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 205 Packages Remain 3 Total 208
+[2018.08.26-20.30.24:799][727]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 205 Packages Remain 2 Total 207
+[2018.08.26-20.30.24:802][727]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 205 Packages Remain 1 Total 206
+[2018.08.26-20.30.25:455][759]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2018.08.26-20.30.25:456][759]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2018.08.26-20.30.25:457][759]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2018.08.26-20.30.25:816][779]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Saving asset registry.
+[2018.08.26-20.30.25:935][786]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Generated asset registry num assets 204, size is 79.73kb
+[2018.08.26-20.30.25:936][786]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2018.08.26-20.30.25:953][787]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook by the book total time in tick 234.090731s total time 267.532471
+[2018.08.26-20.30.25:954][787]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Peak Used virtual 595 Peak Used phsical 562
+[2018.08.26-20.30.25:955][787]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Hierarchy Timer Information:
+[2018.08.26-20.30.25:956][787]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:   Root: 0.000000ms
+[2018.08.26-20.30.25:956][787]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:   StartCookByTheBookTime: 32261.914521ms
+[2018.08.26-20.30.25:971][788]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GenerateAssetRegistryTime: 27309.427824ms
+[2018.08.26-20.30.25:972][788]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     CleanSandboxTime: 176.532714ms
+[2018.08.26-20.30.25:973][788]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 39.504275ms
+[2018.08.26-20.30.25:974][788]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     CollectFilesToCook: 1216.853734ms
+[2018.08.26-20.30.25:975][788]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CookModificationDelegate: 7.235602ms
+[2018.08.26-20.30.25:976][788]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       GetObjectsWithOuter: 0.081504ms
+[2018.08.26-20.30.25:977][788]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       GeneratePackageNames: 40.728543ms
+[2018.08.26-20.30.25:978][788]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         UnsolicitedPackageAlreadyCooked: 25.671415ms
+[2018.08.26-20.30.25:979][788]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         PackageCast: 0.027340ms
+[2018.08.26-20.30.25:979][788]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         FullGCAssetsContains: 0.021126ms
+[2018.08.26-20.30.25:980][788]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         AddUnassignedPackageToManifest: 0.000000ms
+[2018.08.26-20.30.25:981][788]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         GetCachedName: 14.819499ms
+[2018.08.26-20.30.25:982][788]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         AddToPackageList: 14.172547ms
+[2018.08.26-20.30.25:983][788]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GenerateLongPackageName: 1.206599ms
+[2018.08.26-20.30.25:984][788]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:   TickCookOnTheSide: 234007.110212ms
+[2018.08.26-20.30.25:984][788]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     ShouldCook: 0.034194ms
+[2018.08.26-20.30.25:985][788]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     LoadPackage: 2504.015639ms
+[2018.08.26-20.30.25:986][788]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     CallBeginCacheForCookedPlatformData: 450.255025ms
+[2018.08.26-20.30.25:987][788]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     PostLoadPackageFixup: 6.319696ms
+[2018.08.26-20.30.26:001][789]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     UnsolicitedMarkup: 6.595530ms
+[2018.08.26-20.30.26:002][789]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       GetObjectsWithOuter: 0.695342ms
+[2018.08.26-20.30.26:004][789]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       GeneratePackageNames: 5.306877ms
+[2018.08.26-20.30.26:005][789]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         UnsolicitedPackageAlreadyCooked: 3.082398ms
+[2018.08.26-20.30.26:005][789]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         PackageCast: 0.589479ms
+[2018.08.26-20.30.26:006][789]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         FullGCAssetsContains: 0.562839ms
+[2018.08.26-20.30.26:007][789]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         AddUnassignedPackageToManifest: 0.000000ms
+[2018.08.26-20.30.26:008][789]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         GetCachedName: 1.044407ms
+[2018.08.26-20.30.26:009][789]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         AddToPackageList: 0.694219ms
+[2018.08.26-20.30.26:009][789]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingPackages: 231035.962000ms
+[2018.08.26-20.30.26:010][789]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       PrecachePlatformDataForNextPackage: 6.406890ms
+[2018.08.26-20.30.26:011][789]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       PrecachePlatformDataForNextNextPackage: 2993.913447ms
+[2018.08.26-20.30.26:012][789]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveCookedPackage: 227974.154709ms
+[2018.08.26-20.30.26:013][789]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         LoadPackage: 1.099469ms
+[2018.08.26-20.30.26:014][789]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         GEditorSavePackage: 227945.709346ms
+[2018.08.26-20.30.26:015][789]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           ConvertingBlueprints: 86.924130ms
+[2018.08.26-20.30.26:016][789]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           VerifyCanCookPackage: 17.578034ms
+[2018.08.26-20.30.26:016][789]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ClearAllCachedCookedPlatformData: 17.128926ms
+[2018.08.26-20.30.26:017][789]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       EnqueueUnsavedPackages: 0.128239ms
+[2018.08.26-20.30.26:018][789]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:   GeneratingBlueprintAssets: 130.097194ms
+[2018.08.26-20.30.26:018][789]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:   SavingCurrentIniSettings: 210.757479ms
+[2018.08.26-20.30.26:019][789]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     ProcessingAccessedStrings: 59.217939ms
+[2018.08.26-20.30.26:020][789]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:   SavingAssetRegistry: 254.763272ms
+[2018.08.26-20.30.26:020][789]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     BuildChunkManifest: 89.731714ms
+[2018.08.26-20.30.26:021][789]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SaveManifests: 22.104636ms
+[2018.08.26-20.30.26:022][789]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SaveRealAssetRegistry: 117.396276ms
+[2018.08.26-20.30.26:023][789]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     WriteCookerOpenOrder: 9.424806ms
+[2018.08.26-20.30.26:024][789]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: IntStats:
+[2018.08.26-20.30.26:024][789]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:   LoadPackage=31
+[2018.08.26-20.30.26:025][789]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:   SavedPackage=206
+[2018.08.26-20.30.26:026][789]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Asisgnment1/sadasa imported Serialize:/Game/Asisgnment1/sadasa_BuiltData.sadasa_BuiltData, but it was never saved as an export.
+[2018.08.26-20.30.26:027][789]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Warning: /Game/Asisgnment1/sadasa imported Serialize:/Game/Asisgnment1/sadasa_BuiltData, but it was never saved as an export.
+[2018.08.26-20.30.26:043][790]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Display: Took 0.018074s to verify the EDL loading graph.
+[2018.08.26-20.30.26:044][790]PackagingResults: Warning: /Game/Asisgnment1/sadasa imported Serialize:/Game/Asisgnment1/sadasa_BuiltData.sadasa_BuiltData, but it was never saved as an export.
+[2018.08.26-20.30.26:045][790]PackagingResults: Warning: /Game/Asisgnment1/sadasa imported Serialize:/Game/Asisgnment1/sadasa_BuiltData, but it was never saved as an export.
+[2018.08.26-20.30.26:061][791]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Misc Cook Stats
+[2018.08.26-20.30.26:062][791]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ===============
+[2018.08.26-20.30.26:098][793]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ShaderCompiler
+[2018.08.26-20.30.26:100][793]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BlockingTimeSec=225.783377
+[2018.08.26-20.30.26:101][793]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncCompileTimeSec=656.891579
+[2018.08.26-20.30.26:104][793]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=0.362078
+[2018.08.26-20.30.26:105][793]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=220
+[2018.08.26-20.30.26:106][793]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=0.011711
+[2018.08.26-20.30.26:107][793]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader.Misc
+[2018.08.26-20.30.26:122][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2018.08.26-20.30.26:124][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MeshMaterial.Misc
+[2018.08.26-20.30.26:124][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=220
+[2018.08.26-20.30.26:125][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader.Misc
+[2018.08.26-20.30.26:126][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2018.08.26-20.30.26:165][796]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Load
+[2018.08.26-20.30.26:167][796]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesLoaded=142
+[2018.08.26-20.30.26:168][796]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     LoadPackageTimeSec=3.998148
+[2018.08.26-20.30.26:169][796]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Save
+[2018.08.26-20.30.26:170][796]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesSaved=206
+[2018.08.26-20.30.26:171][796]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavePackageTimeSec=227.801506
+[2018.08.26-20.30.26:172][796]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=226.571871
+[2018.08.26-20.30.26:173][796]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsTimeSec=0.107782
+[2018.08.26-20.30.26:174][796]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ResetLoadersForSaveTimeSec=0.001865
+[2018.08.26-20.30.26:175][796]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.002693
+[2018.08.26-20.30.26:176][796]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.000479
+[2018.08.26-20.30.26:176][796]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+[2018.08.26-20.30.26:177][796]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=0.180970
+[2018.08.26-20.30.26:178][796]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeExportsTimeSec=0.465785
+[2018.08.26-20.30.26:179][796]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeBulkDataTimeSec=0.035459
+[2018.08.26-20.30.26:181][796]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncWriteTimeSec=0.000881
+[2018.08.26-20.30.26:182][796]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     MBWritten=67.397335
+[2018.08.26-20.30.26:184][796]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+[2018.08.26-20.30.26:185][796]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2018.08.26-20.30.26:207][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+[2018.08.26-20.30.26:234][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DiffTotal
+[2018.08.26-20.30.26:235][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+[2018.08.26-20.30.26:235][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+[2018.08.26-20.30.26:245][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+[2018.08.26-20.30.26:245][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+[2018.08.26-20.30.26:246][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2018.08.26-20.30.26:246][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Cook Profile
+[2018.08.26-20.30.26:247][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ============
+[2018.08.26-20.30.26:247][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0.CookWallTimeSec=297.594389
+[2018.08.26-20.30.26:248][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=29.978803
+[2018.08.26-20.30.26:248][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=267.610953
+[2018.08.26-20.30.26:249][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=32.268766
+[2018.08.26-20.30.26:249][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.007253
+[2018.08.26-20.30.26:250][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=235.296623
+[2018.08.26-20.30.26:251][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=2.505774
+[2018.08.26-20.30.26:251][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=227.975464
+[2018.08.26-20.30.26:252][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2018.08.26-20.30.26:253][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPackageCacheForCookedPlatformDataTimeSec=3.447350
+[2018.08.26-20.30.26:254][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPackageCacheForCookedPlatformDataTimeSec=0.017019
+[2018.08.26-20.30.26:254][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2018.08.26-20.30.26:255][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.000254
+[2018.08.26-20.30.26:256][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.000017
+[2018.08.26-20.30.26:256][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.000034
+[2018.08.26-20.30.26:257][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.000004
+[2018.08.26-20.30.26:258][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2018.08.26-20.30.26:258][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Summary Stats
+[2018.08.26-20.30.26:259][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =================
+[2018.08.26-20.30.26:260][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHits  =       451
+[2018.08.26-20.30.26:260][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGets     =       453
+[2018.08.26-20.30.26:261][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalHitPct   =  0.995585
+[2018.08.26-20.30.26:261][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: LocalHitPct   =  0.207506
+[2018.08.26-20.30.26:262][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SharedHitPct  =  0.000000
+[2018.08.26-20.30.26:263][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: OtherHitPct   =  0.788079
+[2018.08.26-20.30.26:263][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MissPct       =  0.004415
+[2018.08.26-20.30.26:264][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2018.08.26-20.30.26:264][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Resource Stats
+[2018.08.26-20.30.26:265][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =======================================================================================================
+[2018.08.26-20.30.26:291][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2018.08.26-20.30.26:292][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2018.08.26-20.30.26:293][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Streaming)                             5.41                   0.00             0         20.15
+[2018.08.26-20.30.26:294][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader                                  1.85                   1.85             2          7.00
+[2018.08.26-20.30.26:294][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PhysX (BodySetup)                               0.61                   0.61             0          1.31
+[2018.08.26-20.30.26:295][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Inline)                                0.45                   0.45             0         33.70
+[2018.08.26-20.30.26:297][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SkeletalMesh                                    0.43                   0.43             0          0.58
+[2018.08.26-20.30.26:298][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader                                    0.18                   0.18             0          5.51
+[2018.08.26-20.30.26:299][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: StaticMesh                                      0.11                   0.11             0          3.52
+[2018.08.26-20.30.26:300][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NavCollision                                    0.00                   0.00             0          0.03
+[2018.08.26-20.30.26:301][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DistanceField                                   0.00                   0.00             0          0.00
+[2018.08.26-20.30.26:301][797]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SoundWave                                       0.00                   0.00             0          0.02
+[2018.08.26-20.30.26:303][797]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2018.08.26-20.30.26:315][798]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Warning/Error Summary (Unique only)
+[2018.08.26-20.30.26:316][798]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: -----------------------------------
+[2018.08.26-20.30.26:316][798]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogSavePackage: Warning: /Game/Asisgnment1/sadasa imported Serialize:/Game/Asisgnment1/sadasa_BuiltData.sadasa_BuiltData, but it was never saved as an export.
+[2018.08.26-20.30.26:317][798]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogSavePackage: Warning: /Game/Asisgnment1/sadasa imported Serialize:/Game/Asisgnment1/sadasa_BuiltData, but it was never saved as an export.
+[2018.08.26-20.30.26:318][798]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2018.08.26-20.30.26:319][798]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Success - 0 error(s), 2 warning(s)
+[2018.08.26-20.30.26:319][798]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2018.08.26-20.30.26:320][798]UATHelper: Packaging (Windows (64-bit)):   
+[2018.08.26-20.30.26:320][798]UATHelper: Packaging (Windows (64-bit)):   Execution of commandlet took:  267.84 seconds
+[2018.08.26-20.30.27:650][874]UATHelper: Packaging (Windows (64-bit)): Took 299.4610483s to run UE4Editor-Cmd.exe, ExitCode=0
+[2018.08.26-20.30.27:749][880]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND COMPLETED **********
+[2018.08.26-20.30.27:792][882]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND STARTED **********
+[2018.08.26-20.30.28:471][921]UATHelper: Packaging (Windows (64-bit)): Creating Staging Manifest...
+[2018.08.26-20.30.29:704][990]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.20\Engine\Config\BaseEditor.ini
+[2018.08.26-20.30.29:705][990]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.20\Engine\Config\BaseEditorKeyBindings.ini
+[2018.08.26-20.30.29:706][990]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.20\Engine\Config\BaseEditorLayout.ini
+[2018.08.26-20.30.29:707][990]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.20\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2018.08.26-20.30.29:708][990]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.20\Engine\Config\BaseEditorSettings.ini
+[2018.08.26-20.30.29:709][990]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.20\Engine\Config\BaseLightmass.ini
+[2018.08.26-20.30.29:726][991]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.20\Engine\Config\Localization\Category.ini
+[2018.08.26-20.30.29:728][991]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.20\Engine\Config\Localization\Editor.ini
+[2018.08.26-20.30.29:729][991]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.20\Engine\Config\Localization\EditorTutorials.ini
+[2018.08.26-20.30.29:731][991]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.20\Engine\Config\Localization\Engine.ini
+[2018.08.26-20.30.29:731][991]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.20\Engine\Config\Localization\Keywords.ini
+[2018.08.26-20.30.29:733][991]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.20\Engine\Config\Localization\PortableObjectExport.ini
+[2018.08.26-20.30.29:734][991]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.20\Engine\Config\Localization\PortableObjectImport.ini
+[2018.08.26-20.30.29:735][991]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.20\Engine\Config\Localization\PropertyNames.ini
+[2018.08.26-20.30.29:736][991]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.20\Engine\Config\Localization\RepairData.ini
+[2018.08.26-20.30.29:737][991]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.20\Engine\Config\Localization\ResourceFileGen.ini
+[2018.08.26-20.30.29:738][991]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.20\Engine\Config\Localization\ToolTips.ini
+[2018.08.26-20.30.29:738][991]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.20\Engine\Config\Localization\WordCount.ini
+[2018.08.26-20.30.29:739][991]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Users\Peter\Documents\Unreal Projects\MyProject2\Config\DefaultEditor.ini
+[2018.08.26-20.30.30:019][  7]UATHelper: Packaging (Windows (64-bit)): Cleaning Stage Directory: C:\Users\Peter\Documents\Unreal Projects\MyProject2\Saved\StagedBuilds\WindowsNoEditor
+[2018.08.26-20.30.30:055][  9]UATHelper: Packaging (Windows (64-bit)): Creating pak using staging manifest.
+[2018.08.26-20.30.31:416][ 87]UATHelper: Packaging (Windows (64-bit)): Running UnrealPak *******
+[2018.08.26-20.30.31:433][ 88]UATHelper: Packaging (Windows (64-bit)): Running: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\Win64\UnrealPak.exe "C:\Users\Peter\Documents\Unreal Projects\MyProject2\Saved\StagedBuilds\WindowsNoEditor\MyProject2\Content\Paks\MyProject2-WindowsNoEditor.pak" -create="C:\Users\Peter\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.20\PakList_MyProject2-WindowsNoEditor.txt" -abslog="C:\Users\Peter\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.20\PakLog_MyProject2-WindowsNoEditor.log" -cryptokeys="C:\Users\Peter\Documents\Unreal Projects\MyProject2\Saved\Cooked\WindowsNoEditor\MyProject2\Metadata\Crypto.json" -installed -order="C:\Users\Peter\Documents\Unreal Projects\MyProject2\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log" -UTF8Output -multiprocess -patchpaddingalign=2048
+[2018.08.26-20.30.32:960][176]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Parsing crypto keys from a crypto key cache file
+[2018.08.26-20.30.32:977][177]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading response file C:\Users\Peter\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.20\PakList_MyProject2-WindowsNoEditor.txt
+[2018.08.26-20.30.33:082][183]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 1270 entries to add to pak file.
+[2018.08.26-20.30.33:083][183]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading pak order file C:\Users\Peter\Documents\Unreal Projects\MyProject2\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log...
+[2018.08.26-20.30.33:084][183]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Finished loading pak order file C:\Users\Peter\Documents\Unreal Projects\MyProject2\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log.
+[2018.08.26-20.30.33:085][183]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collecting files to add to pak file...
+[2018.08.26-20.30.33:118][185]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collected 1270 files in 0.03s.
+[2018.08.26-20.30.44:221][825]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 1270 files, 93630169 bytes total, time 11.09s.
+[2018.08.26-20.30.44:223][825]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Encryption - DISABLED
+[2018.08.26-20.30.44:238][826]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Unreal pak executed in 11.266463 seconds
+[2018.08.26-20.30.44:395][835]UATHelper: Packaging (Windows (64-bit)): Took 12.9646102s to run UnrealPak.exe, ExitCode=0
+[2018.08.26-20.30.44:429][836]UATHelper: Packaging (Windows (64-bit)): UnrealPak Done *******
+[2018.08.26-20.30.44:469][838]UATHelper: Packaging (Windows (64-bit)): Copying NonUFSFiles to staging directory: C:\Users\Peter\Documents\Unreal Projects\MyProject2\Saved\StagedBuilds\WindowsNoEditor
+[2018.08.26-20.30.49:356][123]UATHelper: Packaging (Windows (64-bit)): Copying DebugFiles to staging directory: C:\Users\Peter\Documents\Unreal Projects\MyProject2\Saved\StagedBuilds\WindowsNoEditor
+[2018.08.26-20.30.58:426][659]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND COMPLETED **********
+[2018.08.26-20.30.58:528][665]UATHelper: Packaging (Windows (64-bit)): ********** PACKAGE COMMAND STARTED **********
+[2018.08.26-20.31.00:817][795]UATHelper: Packaging (Windows (64-bit)): ********** PACKAGE COMMAND COMPLETED **********
+[2018.08.26-20.31.00:818][795]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND STARTED **********
+[2018.08.26-20.31.00:836][796]UATHelper: Packaging (Windows (64-bit)): Archiving to C:/Users/Peter/Desktop/UR Project 1
+[2018.08.26-20.31.15:102][593]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND COMPLETED **********
+[2018.08.26-20.31.15:103][593]UATHelper: Packaging (Windows (64-bit)): BUILD SUCCESSFUL
+[2018.08.26-20.31.15:534][619]UATHelper: Packaging (Windows (64-bit)): AutomationTool exiting with ExitCode=0 (Success)
+[2018.08.26-20.47.38:683][482]LogHttp: Warning: 0000018982F09080: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.26-20.47.38:684][482]LogHttp: Warning: 0000018982F09080: libcurl info message cache 0 (Connection 35 seems to be dead!)
+[2018.08.26-20.47.38:685][482]LogHttp: Warning: 0000018982F09080: libcurl info message cache 1 (Closing connection 35)
+[2018.08.26-20.47.38:685][482]LogHttp: Warning: 0000018982F09080: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.08.26-20.47.38:686][482]LogHttp: Warning: 0000018982F09080: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.26-20.47.38:686][482]LogHttp: Warning: 0000018982F09080: libcurl info message cache 4 (Closing connection 36)
+[2018.08.26-20.50.51:792][ 54]LogSlate: Window 'Output Log' being destroyed
+[2018.08.26-20.50.51:801][ 54]LogSlate: Window 'Output Log' being destroyed
+[2018.08.26-20.51.02:864][157]LogEditorViewport: Clicking Background
+[2018.08.26-20.51.04:256][232]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-20.51.06:947][392]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-20.51.57:086][638]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.26-20.51.57:684][671]LogSlate: Window 'Open Project' being destroyed
+[2018.08.26-20.51.59:913][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.26-20.52.00:366][778]LogSlate: Window 'MyProject2 - Unreal Editor' being destroyed
+[2018.08.26-20.52.00:367][778]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.26-20.52.01:137][779]Cmd: QUIT_EDITOR
+[2018.08.26-20.52.01:486][779]LogExit: Preparing to exit.
